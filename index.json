@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-26",
+  "description": "驾照考试题库",
+  "subjects": [
+    {
+      "id": "km1",
+      "name": "科目一",
+      "icon": "antenna.radiowaves.left.and.right",
+      "color": "5AC8FA",
+      "description": "科目一 (理论考试) 题库",
+      "url": "km1.json"
+    },
+    {
+      "id": "km4",
+      "name": "科目四",
+      "icon": "sparkles",
+      "color": "FF9500",
+      "description": "科目四 (安全文明驾驶常识) 题库",
+      "url": "km4.json"
+    }
+  ]
+}
