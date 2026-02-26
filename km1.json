@@ -534,7 +534,7 @@
   {
     "id": "129",
     "question": "驾驶这种机动车上路行驶属于什么行为？",
-    "image": "/uploadFile/yuanBeiTu29.gif",
+    "image": "/images/yuanBeiTu29.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -591,7 +591,7 @@
   {
     "id": "132",
     "question": "这辆在道路上行驶的机动车有下列哪种违法行为？",
-    "image": "/uploadFile/yuanBeiTu32.gif",
+    "image": "/images/yuanBeiTu32.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -629,7 +629,7 @@
   {
     "id": "134",
     "question": "驾驶这种机动车上路行驶没有违法行为。",
-    "image": "/uploadFile/yuanBeiTu34.gif",
+    "image": "/images/yuanBeiTu34.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -857,7 +857,7 @@
   {
     "id": "146",
     "question": "前方路口这种信号灯亮表示什么意思？",
-    "image": "/uploadFile/yuanBeiTu46.gif",
+    "image": "/images/yuanBeiTu46.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -876,7 +876,7 @@
   {
     "id": "147",
     "question": "前方路口这种信号灯亮表示什么意思？",
-    "image": "/uploadFile/yuanBeiTu47.gif",
+    "image": "/images/yuanBeiTu47.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -895,7 +895,7 @@
   {
     "id": "148",
     "question": "前方路口这种信号灯亮表示什么意思？",
-    "image": "/uploadFile/yuanBeiTu48.gif",
+    "image": "/images/yuanBeiTu48.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -990,7 +990,7 @@
   {
     "id": "153",
     "question": "驾驶机动车在这种道路上如何通行？",
-    "image": "/uploadFile/yuanBeiTu53.gif",
+    "image": "/images/yuanBeiTu53.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1009,7 +1009,7 @@
   {
     "id": "154",
     "question": "道路上划设这种标线的车道内允许下列哪类车辆通行？",
-    "image": "/uploadFile/yuanBeiTu54.gif",
+    "image": "/images/yuanBeiTu54.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1028,7 +1028,7 @@
   {
     "id": "155",
     "question": "驾驶机动车在路口遇到这种情况如何行驶？",
-    "image": "/uploadFile/yuanBeiTu55.gif",
+    "image": "/images/yuanBeiTu55.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1047,7 +1047,7 @@
   {
     "id": "156",
     "question": "有这种信号灯的路口允许机动车如何行驶？",
-    "image": "/uploadFile/yuanBeiTu56.gif",
+    "image": "/images/yuanBeiTu56.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1066,7 +1066,7 @@
   {
     "id": "157",
     "question": "遇到这种情况的路口怎样通过？",
-    "image": "/uploadFile/yuanBeiTu57.gif",
+    "image": "/images/yuanBeiTu57.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1085,7 +1085,7 @@
   {
     "id": "158",
     "question": "这段道路红车所在车道是什么车道？",
-    "image": "/uploadFile/yuanBeiTu58.gif",
+    "image": "/images/yuanBeiTu58.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1123,7 +1123,7 @@
   {
     "id": "160",
     "question": "在这种情况下可以借右侧公交车道超车。",
-    "image": "/uploadFile/yuanBeiTu60.gif",
+    "image": "/images/yuanBeiTu60.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1161,7 +1161,7 @@
   {
     "id": "162",
     "question": "在这种情况下可加速通过交叉路口。",
-    "image": "/uploadFile/yuanBeiTu62.gif",
+    "image": "/images/yuanBeiTu62.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1180,7 +1180,7 @@
   {
     "id": "163",
     "question": "在路口这个位置时可以加速通过路口。",
-    "image": "/uploadFile/yuanBeiTu63.gif",
+    "image": "/images/yuanBeiTu63.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1218,7 +1218,7 @@
   {
     "id": "165",
     "question": "在这段路的最高时速为每小时50公里。",
-    "image": "/uploadFile/yuanBeiTu65.gif",
+    "image": "/images/yuanBeiTu65.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1237,7 +1237,7 @@
   {
     "id": "166",
     "question": "这辆红色轿车变更车道的方法和路线是正确的。",
-    "image": "/uploadFile/yuanBeiTu66.gif",
+    "image": "/images/yuanBeiTu66.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1294,7 +1294,7 @@
   {
     "id": "169",
     "question": "在这种天气条件下行车如何使用灯光？",
-    "image": "/uploadFile/yuanBeiTu69.gif",
+    "image": "/images/yuanBeiTu69.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1313,7 +1313,7 @@
   {
     "id": "170",
     "question": "在这种天气条件下行车如何使用灯光？",
-    "image": "/uploadFile/yuanBeiTu70.gif",
+    "image": "/images/yuanBeiTu70.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1332,7 +1332,7 @@
   {
     "id": "171",
     "question": "在这种雨天跟车行驶使用灯光，以下做法正确的是？",
-    "image": "/uploadFile/yuanBeiTu71.gif",
+    "image": "/images/yuanBeiTu71.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1351,7 +1351,7 @@
   {
     "id": "172",
     "question": "在这种环境下通过路口如何使用灯光？",
-    "image": "/uploadFile/yuanBeiTu72.gif",
+    "image": "/images/yuanBeiTu72.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1370,7 +1370,7 @@
   {
     "id": "173",
     "question": "在这种路段如何行驶？",
-    "image": "/uploadFile/yuanBeiTu73.gif",
+    "image": "/images/yuanBeiTu73.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1484,7 +1484,7 @@
   {
     "id": "179",
     "question": "在这种环境里行车使用近光灯。",
-    "image": "/uploadFile/yuanBeiTu79.gif",
+    "image": "/images/yuanBeiTu79.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1522,7 +1522,7 @@
   {
     "id": "181",
     "question": "在这种急弯道路上行车应交替使用远近光灯。",
-    "image": "/uploadFile/yuanBeiTu81.gif",
+    "image": "/images/yuanBeiTu81.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1598,7 +1598,7 @@
   {
     "id": "185",
     "question": "在这条高速公路上行驶时的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu85.gif",
+    "image": "/images/yuanBeiTu85.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1617,7 +1617,7 @@
   {
     "id": "186",
     "question": "在这段城市道路上行驶的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu86.gif",
+    "image": "/images/yuanBeiTu86.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1636,7 +1636,7 @@
   {
     "id": "187",
     "question": "在这条公路上行驶的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu87.gif",
+    "image": "/images/yuanBeiTu87.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1655,7 +1655,7 @@
   {
     "id": "188",
     "question": "在这条城市道路上行驶的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu88.gif",
+    "image": "/images/yuanBeiTu88.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1674,7 +1674,7 @@
   {
     "id": "189",
     "question": "在这条公路上行驶的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu89.gif",
+    "image": "/images/yuanBeiTu89.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1693,7 +1693,7 @@
   {
     "id": "190",
     "question": "在这个弯道上行驶时的最高速度不能超过多少？",
-    "image": "/uploadFile/yuanBeiTu90.gif",
+    "image": "/images/yuanBeiTu90.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -1940,7 +1940,7 @@
   {
     "id": "1103",
     "question": "车辆在这种条件的道路上，最高速度不能超过每小时50公里。",
-    "image": "/uploadFile/yuanBeiTu103.gif",
+    "image": "/images/yuanBeiTu103.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -1997,7 +1997,7 @@
   {
     "id": "1106",
     "question": "这两辆车发生追尾的主要原因是什么？",
-    "image": "/uploadFile/yuanBeiTu106.gif",
+    "image": "/images/yuanBeiTu106.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2054,7 +2054,7 @@
   {
     "id": "1109",
     "question": "这种情况超车时，从前车的哪一侧超越？",
-    "image": "/uploadFile/yuanBeiTu109.gif",
+    "image": "/images/yuanBeiTu109.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2263,7 +2263,7 @@
   {
     "id": "1120",
     "question": "遇到这种情况不能超车。",
-    "image": "/uploadFile/yuanBeiTu120.gif",
+    "image": "/images/yuanBeiTu120.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2320,7 +2320,7 @@
   {
     "id": "1123",
     "question": "在道路上遇到这种情况可以从两侧超车。",
-    "image": "/uploadFile/yuanBeiTu123.gif",
+    "image": "/images/yuanBeiTu123.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2339,7 +2339,7 @@
   {
     "id": "1124",
     "question": "在这种情况下可以加速通过人行横道。",
-    "image": "/uploadFile/yuanBeiTu124.gif",
+    "image": "/images/yuanBeiTu124.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2358,7 +2358,7 @@
   {
     "id": "1125",
     "question": "遇到这种情况下可以从右侧超车。",
-    "image": "/uploadFile/yuanBeiTu125.gif",
+    "image": "/images/yuanBeiTu125.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2415,7 +2415,7 @@
   {
     "id": "1128",
     "question": "遇到这种情形怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu128.gif",
+    "image": "/images/yuanBeiTu128.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2510,7 +2510,7 @@
   {
     "id": "1133",
     "question": "遇到这种情况可以优先通行。",
-    "image": "/uploadFile/yuanBeiTu133.gif",
+    "image": "/images/yuanBeiTu133.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2529,7 +2529,7 @@
   {
     "id": "1134",
     "question": "未上坡的车辆遇到这种情况让对向下坡车先行。",
-    "image": "/uploadFile/yuanBeiTu134.gif",
+    "image": "/images/yuanBeiTu134.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2567,7 +2567,7 @@
   {
     "id": "1136",
     "question": "如何通过这种交叉路口？",
-    "image": "/uploadFile/yuanBeiTu136.gif",
+    "image": "/images/yuanBeiTu136.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2586,7 +2586,7 @@
   {
     "id": "1137",
     "question": "怎样通过这样的路口？",
-    "image": "/uploadFile/yuanBeiTu137.gif",
+    "image": "/images/yuanBeiTu137.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2605,7 +2605,7 @@
   {
     "id": "1138",
     "question": "在这个路口左转弯选择哪条车道？",
-    "image": "/uploadFile/yuanBeiTu138.gif",
+    "image": "/images/yuanBeiTu138.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2624,7 +2624,7 @@
   {
     "id": "1139",
     "question": "在这个路口怎样左转弯？",
-    "image": "/uploadFile/yuanBeiTu139.gif",
+    "image": "/images/yuanBeiTu139.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2643,7 +2643,7 @@
   {
     "id": "1140",
     "question": "进入这个路口应该怎样做？",
-    "image": "/uploadFile/yuanBeiTu140.gif",
+    "image": "/images/yuanBeiTu140.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2681,7 +2681,7 @@
   {
     "id": "1142",
     "question": "在这个路口右转弯如何通行？",
-    "image": "/uploadFile/yuanBeiTu142.gif",
+    "image": "/images/yuanBeiTu142.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2700,7 +2700,7 @@
   {
     "id": "1143",
     "question": "在路口直行时，遇这种情形如何通行？",
-    "image": "/uploadFile/yuanBeiTu143.gif",
+    "image": "/images/yuanBeiTu143.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2719,7 +2719,7 @@
   {
     "id": "1144",
     "question": "在路口遇这种情形怎样通行？",
-    "image": "/uploadFile/yuanBeiTu144.gif",
+    "image": "/images/yuanBeiTu144.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2814,7 +2814,7 @@
   {
     "id": "1149",
     "question": "在这种情况的铁路道口要加速通过。",
-    "image": "/uploadFile/yuanBeiTu149.gif",
+    "image": "/images/yuanBeiTu149.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2833,7 +2833,7 @@
   {
     "id": "1150",
     "question": "行至这种情况的铁路道口要停车观察。",
-    "image": "/uploadFile/yuanBeiTu150.gif",
+    "image": "/images/yuanBeiTu150.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2852,7 +2852,7 @@
   {
     "id": "1151",
     "question": "在这种情况的交叉路口转弯要让直行车先行。",
-    "image": "/uploadFile/yuanBeiTu151.gif",
+    "image": "/images/yuanBeiTu151.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2871,7 +2871,7 @@
   {
     "id": "1152",
     "question": "在交叉路口遇到这种情况享有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu152.gif",
+    "image": "/images/yuanBeiTu152.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2890,7 +2890,7 @@
   {
     "id": "1153",
     "question": "在交叉路口遇到这种情况享有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu153.gif",
+    "image": "/images/yuanBeiTu153.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -2909,7 +2909,7 @@
   {
     "id": "1154",
     "question": "遇有这种排队等候的情形怎么做？",
-    "image": "/uploadFile/yuanBeiTu154.gif",
+    "image": "/images/yuanBeiTu154.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2928,7 +2928,7 @@
   {
     "id": "1155",
     "question": "遇到前方车辆缓慢行驶时怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu155.gif",
+    "image": "/images/yuanBeiTu155.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -2947,7 +2947,7 @@
   {
     "id": "1156",
     "question": "在路口遇到这种情形时怎样做？",
-    "image": "/uploadFile/yuanBeiTu156.gif",
+    "image": "/images/yuanBeiTu156.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3042,7 +3042,7 @@
   {
     "id": "1161",
     "question": "遇到这种情况时，要加速从红车前变更车道。",
-    "image": "/uploadFile/yuanBeiTu161.gif",
+    "image": "/images/yuanBeiTu161.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3061,7 +3061,7 @@
   {
     "id": "1162",
     "question": "在交叉路口遇到这种情况时，要在红灯亮以前加速通过路口。",
-    "image": "/uploadFile/yuanBeiTu162.gif",
+    "image": "/images/yuanBeiTu162.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3080,7 +3080,7 @@
   {
     "id": "1163",
     "question": "遇到这种情况的路段，可以进入网状线区域内停车等候。",
-    "image": "/uploadFile/yuanBeiTu163.gif",
+    "image": "/images/yuanBeiTu163.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3099,7 +3099,7 @@
   {
     "id": "1164",
     "question": "这辆小轿车不能在这个位置停车。",
-    "image": "/uploadFile/yuanBeiTu164.gif",
+    "image": "/images/yuanBeiTu164.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3118,7 +3118,7 @@
   {
     "id": "1165",
     "question": "驾驶机动车遇到这种桥时首先怎样办？",
-    "image": "/uploadFile/yuanBeiTu165.gif",
+    "image": "/images/yuanBeiTu165.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3175,7 +3175,7 @@
   {
     "id": "1168",
     "question": "遇到这种情形时，应怎么办？",
-    "image": "/uploadFile/yuanBeiTu168.gif",
+    "image": "/images/yuanBeiTu168.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3194,7 +3194,7 @@
   {
     "id": "1169",
     "question": "行经这种交通标线的路段要加速行驶。",
-    "image": "/uploadFile/yuanBeiTu169.gif",
+    "image": "/images/yuanBeiTu169.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3213,7 +3213,7 @@
   {
     "id": "1170",
     "question": "遇到这种情形时要停车避让行人。",
-    "image": "/uploadFile/yuanBeiTu170.gif",
+    "image": "/images/yuanBeiTu170.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3232,7 +3232,7 @@
   {
     "id": "1171",
     "question": "在这种路口怎样进行掉头？",
-    "image": "/uploadFile/yuanBeiTu171.gif",
+    "image": "/images/yuanBeiTu171.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3251,7 +3251,7 @@
   {
     "id": "1172",
     "question": "遇到这种情况的路口，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu172.gif",
+    "image": "/images/yuanBeiTu172.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3270,7 +3270,7 @@
   {
     "id": "1173",
     "question": "在这个路口可以掉头。",
-    "image": "/uploadFile/yuanBeiTu173.gif",
+    "image": "/images/yuanBeiTu173.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3289,7 +3289,7 @@
   {
     "id": "1174",
     "question": "在这个路口不能掉头。",
-    "image": "/uploadFile/yuanBeiTu174.gif",
+    "image": "/images/yuanBeiTu174.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3308,7 +3308,7 @@
   {
     "id": "1175",
     "question": "在这段道路上不能掉头。",
-    "image": "/uploadFile/yuanBeiTu175.gif",
+    "image": "/images/yuanBeiTu175.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3346,7 +3346,7 @@
   {
     "id": "1177",
     "question": "在这段道路上，只要不影响其他车辆通行的前提下可以掉头。",
-    "image": "/uploadFile/yuanBeiTu177.gif",
+    "image": "/images/yuanBeiTu177.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3365,7 +3365,7 @@
   {
     "id": "1178",
     "question": "这位驾驶人违反法律规定的行为是什么？",
-    "image": "/uploadFile/yuanBeiTu178.gif",
+    "image": "/images/yuanBeiTu178.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3441,7 +3441,7 @@
   {
     "id": "1182",
     "question": "找出这辆故障车有哪种违法行为？",
-    "image": "/uploadFile/yuanBeiTu182.gif",
+    "image": "/images/yuanBeiTu182.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3498,7 +3498,7 @@
   {
     "id": "1185",
     "question": "这辆停在路边的机动车没有违法行为。",
-    "image": "/uploadFile/yuanBeiTu185.gif",
+    "image": "/images/yuanBeiTu185.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3574,7 +3574,7 @@
   {
     "id": "1189",
     "question": "在这种情形中前车怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu189.gif",
+    "image": "/images/yuanBeiTu189.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3631,7 +3631,7 @@
   {
     "id": "1192",
     "question": "这样在路边临时停放机动车有什么违法行为？",
-    "image": "/uploadFile/yuanBeiTu192.gif",
+    "image": "/images/yuanBeiTu192.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3669,7 +3669,7 @@
   {
     "id": "1194",
     "question": "这样在路边临时停放机动车有什么违法行为？",
-    "image": "/uploadFile/yuanBeiTu194.gif",
+    "image": "/images/yuanBeiTu194.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3688,7 +3688,7 @@
   {
     "id": "1195",
     "question": "这样临时停放红色轿车有什么违法行为？",
-    "image": "/uploadFile/yuanBeiTu195.gif",
+    "image": "/images/yuanBeiTu195.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3707,7 +3707,7 @@
   {
     "id": "1196",
     "question": "这样停放机动车有什么违法行为？",
-    "image": "/uploadFile/yuanBeiTu196.gif",
+    "image": "/images/yuanBeiTu196.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3726,7 +3726,7 @@
   {
     "id": "1197",
     "question": "在距这段路多少米以内的路段不能停放机动车？",
-    "image": "/uploadFile/yuanBeiTu197.gif",
+    "image": "/images/yuanBeiTu197.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3802,7 +3802,7 @@
   {
     "id": "1201",
     "question": "这个路段可以在非机动车道上临时停车。",
-    "image": "/uploadFile/yuanBeiTu201.gif",
+    "image": "/images/yuanBeiTu201.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -3916,7 +3916,7 @@
   {
     "id": "1207",
     "question": "在这段高速公路上行驶的最高车速是多少？",
-    "image": "/uploadFile/yuanBeiTu207.gif",
+    "image": "/images/yuanBeiTu207.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3935,7 +3935,7 @@
   {
     "id": "1208",
     "question": "在这段高速公路上行驶的最低车速是多少？",
-    "image": "/uploadFile/yuanBeiTu208.gif",
+    "image": "/images/yuanBeiTu208.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3954,7 +3954,7 @@
   {
     "id": "1209",
     "question": "在这条车道行驶的最低车速是多少？",
-    "image": "/uploadFile/yuanBeiTu209.gif",
+    "image": "/images/yuanBeiTu209.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3973,7 +3973,7 @@
   {
     "id": "1210",
     "question": "在这条车道行驶的最低车速是多少？",
-    "image": "/uploadFile/yuanBeiTu210.gif",
+    "image": "/images/yuanBeiTu210.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -3992,7 +3992,7 @@
   {
     "id": "1211",
     "question": "在这条车道行驶的最高车速是多少？",
-    "image": "/uploadFile/yuanBeiTu211.gif",
+    "image": "/images/yuanBeiTu211.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -4049,7 +4049,7 @@
   {
     "id": "1214",
     "question": "在这个位置时怎样使用灯光？",
-    "image": "/uploadFile/yuanBeiTu214.gif",
+    "image": "/images/yuanBeiTu214.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -4068,7 +4068,7 @@
   {
     "id": "1215",
     "question": "进入减速车道时怎样使用灯光？",
-    "image": "/uploadFile/yuanBeiTu215.gif",
+    "image": "/images/yuanBeiTu215.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -4182,7 +4182,7 @@
   {
     "id": "1221",
     "question": "驾驶机动车驶离高速公路时，在这个位置怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu221.gif",
+    "image": "/images/yuanBeiTu221.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -4201,7 +4201,7 @@
   {
     "id": "1222",
     "question": "驾驶车辆可以从这个位置直接驶入高速公路行车道。",
-    "image": "/uploadFile/yuanBeiTu222.gif",
+    "image": "/images/yuanBeiTu222.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -4220,7 +4220,7 @@
   {
     "id": "1223",
     "question": "驾驶车辆驶离高速公路可以从这个位置直接驶入匝道。",
-    "image": "/uploadFile/yuanBeiTu223.gif",
+    "image": "/images/yuanBeiTu223.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -4239,7 +4239,7 @@
   {
     "id": "1224",
     "question": "这辆小型载客汽车进入高速公路行车道的行为是正确的。",
-    "image": "/uploadFile/yuanBeiTu224.gif",
+    "image": "/images/yuanBeiTu224.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -4258,7 +4258,7 @@
   {
     "id": "1225",
     "question": "这辆小型载客汽车驶离高速公路行车道的方法是正确的。",
-    "image": "/uploadFile/yuanBeiTu225.gif",
+    "image": "/images/yuanBeiTu225.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -4277,7 +4277,7 @@
   {
     "id": "1226",
     "question": "这辆在高速公路上临时停放的故障车，警告标志应该设置在车后多远处？",
-    "image": "/uploadFile/yuanBeiTu226.gif",
+    "image": "/images/yuanBeiTu226.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -4543,7 +4543,7 @@
   {
     "id": "1240",
     "question": "在这段道路上一定要减少鸣喇叭的频率。",
-    "image": "/uploadFile/yuanBeiTu240.gif",
+    "image": "/images/yuanBeiTu240.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7222,7 +7222,7 @@
   {
     "id": "1381",
     "question": "如图所示，红圈中标记车辆使用灯光的方法是正确的。",
-    "image": "/uploadFile/yuanBeiTu381.gif",
+    "image": "/images/yuanBeiTu381.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7298,7 +7298,7 @@
   {
     "id": "1385",
     "question": "如图所示，A车可以从左侧超越B车。",
-    "image": "/uploadFile/yuanBeiTu385.gif",
+    "image": "/images/yuanBeiTu385.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7317,7 +7317,7 @@
   {
     "id": "1386",
     "question": "如图所示，驾驶机动车行驶至桥梁涵洞时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu386.gif",
+    "image": "/images/yuanBeiTu386.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -7336,7 +7336,7 @@
   {
     "id": "1387",
     "question": "如图所示，驾驶机动车遇到这种情况，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu387.gif",
+    "image": "/images/yuanBeiTu387.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -7526,7 +7526,7 @@
   {
     "id": "1397",
     "question": "如图所示，夜间驾驶机动车遇对方使用远光灯，无法看清前方路况时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu397.gif",
+    "image": "/images/yuanBeiTu397.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -7545,7 +7545,7 @@
   {
     "id": "1398",
     "question": "如图所示，驾驶机动车经过这种道路时，如果前方没有其他交通参与者，可在道路上随意通行。",
-    "image": "/uploadFile/yuanBeiTu398.gif",
+    "image": "/images/yuanBeiTu398.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7564,7 +7564,7 @@
   {
     "id": "1399",
     "question": "如图所示，驾驶机动车直行遇前方道路堵塞时，车辆可以在黄色网格线区域临时停车等待，但不得在人行横道停车。",
-    "image": "/uploadFile/yuanBeiTu399.gif",
+    "image": "/images/yuanBeiTu399.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7583,7 +7583,7 @@
   {
     "id": "1400",
     "question": "如图所示，驾驶机动车在路口遇到这种交通信号时，右转弯的车辆在不妨碍被放行的车辆、行人的情况下，可以通行。",
-    "image": "/uploadFile/yuanBeiTu400.gif",
+    "image": "/images/yuanBeiTu400.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7602,7 +7602,7 @@
   {
     "id": "1401",
     "question": "如图所示，驾驶机动车遇到右侧车辆强行变道，应减速慢行，让右前方车辆顺利变道。",
-    "image": "/uploadFile/yuanBeiTu401.gif",
+    "image": "/images/yuanBeiTu401.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7640,7 +7640,7 @@
   {
     "id": "1403",
     "question": "如图所示，驾驶机动车遇到这种情况，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu403.gif",
+    "image": "/images/yuanBeiTu403.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -7868,7 +7868,7 @@
   {
     "id": "1415",
     "question": "如图所示，驾驶机动车遇前方车流行驶缓慢时，借用公交专用道超车是正确的。",
-    "image": "/uploadFile/yuanBeiTu415.gif",
+    "image": "/images/yuanBeiTu415.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -7887,7 +7887,7 @@
   {
     "id": "1416",
     "question": "如图所示，驾驶机动车行驶至车道减少的路段时，遇前方机动车排队等候或行驶缓慢时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu416.gif",
+    "image": "/images/yuanBeiTu416.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -7982,7 +7982,7 @@
   {
     "id": "1421",
     "question": "如图所示，驾驶机动车经过这种道路时，应降低车速在道路中间通行。",
-    "image": "/uploadFile/yuanBeiTu421.gif",
+    "image": "/images/yuanBeiTu421.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8001,7 +8001,7 @@
   {
     "id": "1422",
     "question": "如图所示，驾驶机动车遇到这种情况，可以轻按喇叭提醒前方非机动车和行人后方有来车。",
-    "image": "/uploadFile/yuanBeiTu422.gif",
+    "image": "/images/yuanBeiTu422.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8039,7 +8039,7 @@
   {
     "id": "1424",
     "question": "如图所示，驾驶机动车遇到这种情况时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu424.gif",
+    "image": "/images/yuanBeiTu424.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -8229,7 +8229,7 @@
   {
     "id": "1434",
     "question": "如图所示，驾驶机动车驶出这个路口时应当怎样使用灯光?",
-    "image": "/uploadFile/yuanBeiTu434.gif",
+    "image": "/images/yuanBeiTu434.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -8286,7 +8286,7 @@
   {
     "id": "1437",
     "question": "如图所示，A车具有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu437.gif",
+    "image": "/images/yuanBeiTu437.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8305,7 +8305,7 @@
   {
     "id": "1438",
     "question": "如图所示，驾驶机动车在路口前遇到这种情况时，A车具有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu438.gif",
+    "image": "/images/yuanBeiTu438.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8495,7 +8495,7 @@
   {
     "id": "1448",
     "question": "如图所示，驾驶机动车行驶至此位置时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu448.gif",
+    "image": "/images/yuanBeiTu448.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -8590,7 +8590,7 @@
   {
     "id": "1453",
     "question": "如图所示，驾驶机动车遇左侧车道有车辆正在超车时，可以迅速变道，伺机反超。",
-    "image": "/uploadFile/yuanBeiTu453.gif",
+    "image": "/images/yuanBeiTu453.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8609,7 +8609,7 @@
   {
     "id": "1454",
     "question": "如图所示，驾驶机动车遇到这种情况，不仅要控制车辆留出会车空间，而且要注意与右侧的儿童保持足够的安全距离。",
-    "image": "/uploadFile/yuanBeiTu454.gif",
+    "image": "/images/yuanBeiTu454.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8647,7 +8647,7 @@
   {
     "id": "1456",
     "question": "如图所示，驾驶机动车在这种情况下，当C车减速让超车时，A车应该如何行驶？",
-    "image": "/uploadFile/yuanBeiTu456.gif",
+    "image": "/images/yuanBeiTu456.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -8666,7 +8666,7 @@
   {
     "id": "1457",
     "question": "如图所示，夜间驾驶机动车与同方向行驶的前车距离较近时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu457.gif",
+    "image": "/images/yuanBeiTu457.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -8761,7 +8761,7 @@
   {
     "id": "1462",
     "question": "如图所示，红圈标注的深色车辆的做法是违法的。",
-    "image": "/uploadFile/yuanBeiTu462.gif",
+    "image": "/images/yuanBeiTu462.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -8780,7 +8780,7 @@
   {
     "id": "1463",
     "question": "如图所示，驾驶机动车遇到这种情况时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu463.gif",
+    "image": "/images/yuanBeiTu463.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9008,7 +9008,7 @@
   {
     "id": "1475",
     "question": "遇到这种单方交通事故，应如何处理？",
-    "image": "/uploadFile/yuanBeiTu475.gif",
+    "image": "/images/yuanBeiTu475.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9084,7 +9084,7 @@
   {
     "id": "1479",
     "question": "下列高速公路交通标志与其含义对应的正确的一项是？",
-    "image": "/uploadFile/yuanBeiTu479.gif",
+    "image": "/images/yuanBeiTu479.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9122,7 +9122,7 @@
   {
     "id": "1481",
     "question": "在高速公路上开车遇到图中所示的情况时，以下操作不正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu481.gif",
+    "image": "/images/yuanBeiTu481.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9217,7 +9217,7 @@
   {
     "id": "1486",
     "question": "车辆在高速公路发生故障不能移动时，驾驶人这种尝试排除故障的做法是否正确？",
-    "image": "/uploadFile/yuanBeiTu486.gif",
+    "image": "/images/yuanBeiTu486.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9236,7 +9236,7 @@
   {
     "id": "1487",
     "question": "下列做法是否正确？",
-    "image": "/uploadFile/yuanBeiTu487.gif",
+    "image": "/images/yuanBeiTu487.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9293,7 +9293,7 @@
   {
     "id": "1490",
     "question": "车辆发生故障无法移动时，以下做法是否正确？",
-    "image": "/uploadFile/yuanBeiTu490.gif",
+    "image": "/images/yuanBeiTu490.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9369,7 +9369,7 @@
   {
     "id": "1494",
     "question": "蓝色车辆遇到图中的情形时，下列做法正确的是？",
-    "image": "/uploadFile/yuanBeiTu494.gif",
+    "image": "/images/yuanBeiTu494.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9426,7 +9426,7 @@
   {
     "id": "1497",
     "question": "如图所示，当机动车行驶至交叉口时的做法是正确的。",
-    "image": "/uploadFile/yuanBeiTu497.gif",
+    "image": "/images/yuanBeiTu497.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9464,7 +9464,7 @@
   {
     "id": "1499",
     "question": "车辆后备箱门未关好，是可以上路行驶的。",
-    "image": "/uploadFile/yuanBeiTu499.gif",
+    "image": "/images/yuanBeiTu499.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9483,7 +9483,7 @@
   {
     "id": "1500",
     "question": "下列哪个交通标志表示不能停车？",
-    "image": "/uploadFile/yuanBeiTu500.gif",
+    "image": "/images/yuanBeiTu500.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "1",
@@ -9502,7 +9502,7 @@
   {
     "id": "1501",
     "question": "图中深色车辆在该地点临时停车是可以的。",
-    "image": "/uploadFile/yuanBeiTu501.gif",
+    "image": "/images/yuanBeiTu501.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9521,7 +9521,7 @@
   {
     "id": "1502",
     "question": "图中标注车辆在该地点停车是可以的。",
-    "image": "/uploadFile/yuanBeiTu502.gif",
+    "image": "/images/yuanBeiTu502.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9540,7 +9540,7 @@
   {
     "id": "1503",
     "question": "图中小型汽车的停车地点是正确的。",
-    "image": "/uploadFile/yuanBeiTu503.gif",
+    "image": "/images/yuanBeiTu503.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9559,7 +9559,7 @@
   {
     "id": "1504",
     "question": "如图所示，A车在此处临时停车是可以的。",
-    "image": "/uploadFile/yuanBeiTu504.gif",
+    "image": "/images/yuanBeiTu504.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9578,7 +9578,7 @@
   {
     "id": "1505",
     "question": "如图所示，A车在此处临时停车是可以的。",
-    "image": "/uploadFile/yuanBeiTu505.gif",
+    "image": "/images/yuanBeiTu505.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "1",
@@ -9597,7 +9597,7 @@
   {
     "id": "1506",
     "question": "驾驶机动车在路口直行遇到这种信号灯应该怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu506.gif",
+    "image": "/images/yuanBeiTu506.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9616,7 +9616,7 @@
   {
     "id": "1507",
     "question": "驾驶机动车行驶到这个位置时，如果车前轮已越过停止线可以继续通过。",
-    "image": "/uploadFile/yuanBeiTu507.gif",
+    "image": "/images/yuanBeiTu507.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9635,7 +9635,7 @@
   {
     "id": "1508",
     "question": "驾驶机动车在这种信号灯亮的路口，可以右转弯。",
-    "image": "/uploadFile/yuanBeiTu508.gif",
+    "image": "/images/yuanBeiTu508.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9654,7 +9654,7 @@
   {
     "id": "1509",
     "question": "驾驶机动车在路口遇到这种信号灯禁止通行。",
-    "image": "/uploadFile/yuanBeiTu509.gif",
+    "image": "/images/yuanBeiTu509.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9692,7 +9692,7 @@
   {
     "id": "1511",
     "question": "驾驶机动车在路口遇到这种信号灯亮时，要在停止线前停车瞭望。",
-    "image": "/uploadFile/yuanBeiTu511.gif",
+    "image": "/images/yuanBeiTu511.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9711,7 +9711,7 @@
   {
     "id": "1512",
     "question": "驾驶机动车在路口遇到这种信号灯亮时，不能右转弯。",
-    "image": "/uploadFile/yuanBeiTu512.gif",
+    "image": "/images/yuanBeiTu512.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9730,7 +9730,7 @@
   {
     "id": "1513",
     "question": "驾驶机动车遇到这种信号灯，可在对面直行车前直接向左转弯。",
-    "image": "/uploadFile/yuanBeiTu513.gif",
+    "image": "/images/yuanBeiTu513.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9749,7 +9749,7 @@
   {
     "id": "1514",
     "question": "驾驶机动车在路口遇到这种信号灯表示什么意思？",
-    "image": "/uploadFile/yuanBeiTu514.gif",
+    "image": "/images/yuanBeiTu514.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9768,7 +9768,7 @@
   {
     "id": "1515",
     "question": "驾驶机动车在路口看到这种信号灯亮时，要加速通过。",
-    "image": "/uploadFile/yuanBeiTu515.gif",
+    "image": "/images/yuanBeiTu515.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9787,7 +9787,7 @@
   {
     "id": "1516",
     "question": "驾驶机动车在前方路口不能右转弯。",
-    "image": "/uploadFile/yuanBeiTu516.gif",
+    "image": "/images/yuanBeiTu516.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9806,7 +9806,7 @@
   {
     "id": "1517",
     "question": "驾驶机动车遇到这种信号灯亮时，如果已越过停止线，可以继续通行。",
-    "image": "/uploadFile/yuanBeiTu517.gif",
+    "image": "/images/yuanBeiTu517.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9825,7 +9825,7 @@
   {
     "id": "1518",
     "question": "遇到这种情况时怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu518.gif",
+    "image": "/images/yuanBeiTu518.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9844,7 +9844,7 @@
   {
     "id": "1519",
     "question": "遇到这种情况时，中间车道不允许车辆通行。",
-    "image": "/uploadFile/yuanBeiTu519.gif",
+    "image": "/images/yuanBeiTu519.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9863,7 +9863,7 @@
   {
     "id": "1520",
     "question": "这辆红色轿车可以在该车道行驶。",
-    "image": "/uploadFile/yuanBeiTu520.gif",
+    "image": "/images/yuanBeiTu520.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9882,7 +9882,7 @@
   {
     "id": "1521",
     "question": "驾驶机动车要选择绿色箭头灯亮的车道行驶。",
-    "image": "/uploadFile/yuanBeiTu521.gif",
+    "image": "/images/yuanBeiTu521.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9901,7 +9901,7 @@
   {
     "id": "1522",
     "question": "这个路口允许车辆怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu522.gif",
+    "image": "/images/yuanBeiTu522.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9920,7 +9920,7 @@
   {
     "id": "1523",
     "question": "这个路口允许车辆怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu523.gif",
+    "image": "/images/yuanBeiTu523.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9939,7 +9939,7 @@
   {
     "id": "1524",
     "question": "这个路口允许车辆怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu524.gif",
+    "image": "/images/yuanBeiTu524.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -9958,7 +9958,7 @@
   {
     "id": "1525",
     "question": "驾驶机动车在这种情况下不能左转弯。",
-    "image": "/uploadFile/yuanBeiTu525.gif",
+    "image": "/images/yuanBeiTu525.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9977,7 +9977,7 @@
   {
     "id": "1526",
     "question": "驾驶机动车在这种情况下可以右转弯。",
-    "image": "/uploadFile/yuanBeiTu526.gif",
+    "image": "/images/yuanBeiTu526.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -9996,7 +9996,7 @@
   {
     "id": "1527",
     "question": "驾驶机动车在这种情况下不能直行和左转弯。",
-    "image": "/uploadFile/yuanBeiTu527.gif",
+    "image": "/images/yuanBeiTu527.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -10015,7 +10015,7 @@
   {
     "id": "1528",
     "question": "驾驶机动车遇到这种信号灯不断闪烁时怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu528.gif",
+    "image": "/images/yuanBeiTu528.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10072,7 +10072,7 @@
   {
     "id": "1531",
     "question": "驾驶机动车在铁路道口看到这种信号灯时怎样行驶？",
-    "image": "/uploadFile/yuanBeiTu531.gif",
+    "image": "/images/yuanBeiTu531.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10091,7 +10091,7 @@
   {
     "id": "1532",
     "question": "在铁路道口遇到两个红灯交替闪烁时要停车等待。",
-    "image": "/uploadFile/yuanBeiTu532.gif",
+    "image": "/images/yuanBeiTu532.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -10110,7 +10110,7 @@
   {
     "id": "1533",
     "question": "在道路与铁路道口遇到一个红灯亮时要尽快通过道口。",
-    "image": "/uploadFile/yuanBeiTu533.gif",
+    "image": "/images/yuanBeiTu533.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -10129,7 +10129,7 @@
   {
     "id": "1534",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu534.gif",
+    "image": "/images/yuanBeiTu534.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10148,7 +10148,7 @@
   {
     "id": "1535",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu535.gif",
+    "image": "/images/yuanBeiTu535.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10167,7 +10167,7 @@
   {
     "id": "1536",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu536.gif",
+    "image": "/images/yuanBeiTu536.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10186,7 +10186,7 @@
   {
     "id": "1537",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu537.gif",
+    "image": "/images/yuanBeiTu537.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10205,7 +10205,7 @@
   {
     "id": "1538",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu538.gif",
+    "image": "/images/yuanBeiTu538.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10224,7 +10224,7 @@
   {
     "id": "1539",
     "question": "这是什么交通标志？",
-    "image": "/uploadFile/yuanBeiTu539.gif",
+    "image": "/images/yuanBeiTu539.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10243,7 +10243,7 @@
   {
     "id": "1540",
     "question": "这是什么交通标志？",
-    "image": "/uploadFile/yuanBeiTu540.gif",
+    "image": "/images/yuanBeiTu540.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10262,7 +10262,7 @@
   {
     "id": "1541",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu541.gif",
+    "image": "/images/yuanBeiTu541.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10281,7 +10281,7 @@
   {
     "id": "1542",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu542.gif",
+    "image": "/images/yuanBeiTu542.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10300,7 +10300,7 @@
   {
     "id": "1543",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu543.gif",
+    "image": "/images/yuanBeiTu543.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10319,7 +10319,7 @@
   {
     "id": "1544",
     "question": "这是什么交通标志？",
-    "image": "/uploadFile/yuanBeiTu544.gif",
+    "image": "/images/yuanBeiTu544.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10338,7 +10338,7 @@
   {
     "id": "1545",
     "question": "这是什么交通标志？",
-    "image": "/uploadFile/yuanBeiTu545.gif",
+    "image": "/images/yuanBeiTu545.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10357,7 +10357,7 @@
   {
     "id": "1546",
     "question": "这是什么交通标志？",
-    "image": "/uploadFile/yuanBeiTu546.gif",
+    "image": "/images/yuanBeiTu546.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10376,7 +10376,7 @@
   {
     "id": "1547",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu547.gif",
+    "image": "/images/yuanBeiTu547.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10395,7 +10395,7 @@
   {
     "id": "1548",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu548.gif",
+    "image": "/images/yuanBeiTu548.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10414,7 +10414,7 @@
   {
     "id": "1549",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu549.gif",
+    "image": "/images/yuanBeiTu549.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10433,7 +10433,7 @@
   {
     "id": "1550",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu550.gif",
+    "image": "/images/yuanBeiTu550.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10452,7 +10452,7 @@
   {
     "id": "1551",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu551.gif",
+    "image": "/images/yuanBeiTu551.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10471,7 +10471,7 @@
   {
     "id": "1552",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu552.gif",
+    "image": "/images/yuanBeiTu552.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10490,7 +10490,7 @@
   {
     "id": "1553",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu553.gif",
+    "image": "/images/yuanBeiTu553.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10509,7 +10509,7 @@
   {
     "id": "1554",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu554.gif",
+    "image": "/images/yuanBeiTu554.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10528,7 +10528,7 @@
   {
     "id": "1555",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu555.gif",
+    "image": "/images/yuanBeiTu555.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10547,7 +10547,7 @@
   {
     "id": "1556",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu556.gif",
+    "image": "/images/yuanBeiTu556.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10566,7 +10566,7 @@
   {
     "id": "1557",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu557.gif",
+    "image": "/images/yuanBeiTu557.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10585,7 +10585,7 @@
   {
     "id": "1558",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu558.gif",
+    "image": "/images/yuanBeiTu558.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10604,7 +10604,7 @@
   {
     "id": "1559",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu559.gif",
+    "image": "/images/yuanBeiTu559.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10623,7 +10623,7 @@
   {
     "id": "1560",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu560.gif",
+    "image": "/images/yuanBeiTu560.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10642,7 +10642,7 @@
   {
     "id": "1561",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu561.gif",
+    "image": "/images/yuanBeiTu561.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10661,7 +10661,7 @@
   {
     "id": "1562",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu562.gif",
+    "image": "/images/yuanBeiTu562.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10680,7 +10680,7 @@
   {
     "id": "1563",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu563.gif",
+    "image": "/images/yuanBeiTu563.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10699,7 +10699,7 @@
   {
     "id": "1564",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu564.gif",
+    "image": "/images/yuanBeiTu564.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10718,7 +10718,7 @@
   {
     "id": "1565",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu565.gif",
+    "image": "/images/yuanBeiTu565.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10737,7 +10737,7 @@
   {
     "id": "1566",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu566.gif",
+    "image": "/images/yuanBeiTu566.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10756,7 +10756,7 @@
   {
     "id": "1567",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu567.gif",
+    "image": "/images/yuanBeiTu567.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10775,7 +10775,7 @@
   {
     "id": "1568",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu568.gif",
+    "image": "/images/yuanBeiTu568.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10794,7 +10794,7 @@
   {
     "id": "1569",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu569.gif",
+    "image": "/images/yuanBeiTu569.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10813,7 +10813,7 @@
   {
     "id": "1570",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu570.gif",
+    "image": "/images/yuanBeiTu570.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10832,7 +10832,7 @@
   {
     "id": "1571",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu571.gif",
+    "image": "/images/yuanBeiTu571.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10851,7 +10851,7 @@
   {
     "id": "1572",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu572.gif",
+    "image": "/images/yuanBeiTu572.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10870,7 +10870,7 @@
   {
     "id": "1573",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu573.gif",
+    "image": "/images/yuanBeiTu573.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10889,7 +10889,7 @@
   {
     "id": "1574",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu574.gif",
+    "image": "/images/yuanBeiTu574.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10908,7 +10908,7 @@
   {
     "id": "1575",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu575.gif",
+    "image": "/images/yuanBeiTu575.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10927,7 +10927,7 @@
   {
     "id": "1576",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu576.gif",
+    "image": "/images/yuanBeiTu576.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10946,7 +10946,7 @@
   {
     "id": "1577",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu577.gif",
+    "image": "/images/yuanBeiTu577.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10965,7 +10965,7 @@
   {
     "id": "1578",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu578.gif",
+    "image": "/images/yuanBeiTu578.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -10984,7 +10984,7 @@
   {
     "id": "1579",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu579.gif",
+    "image": "/images/yuanBeiTu579.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11003,7 +11003,7 @@
   {
     "id": "1580",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu580.gif",
+    "image": "/images/yuanBeiTu580.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11022,7 +11022,7 @@
   {
     "id": "1581",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu581.gif",
+    "image": "/images/yuanBeiTu581.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11041,7 +11041,7 @@
   {
     "id": "1582",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu582.gif",
+    "image": "/images/yuanBeiTu582.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11060,7 +11060,7 @@
   {
     "id": "1583",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu583.gif",
+    "image": "/images/yuanBeiTu583.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11079,7 +11079,7 @@
   {
     "id": "1584",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu584.gif",
+    "image": "/images/yuanBeiTu584.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11098,7 +11098,7 @@
   {
     "id": "1585",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu585.gif",
+    "image": "/images/yuanBeiTu585.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11117,7 +11117,7 @@
   {
     "id": "1586",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu586.gif",
+    "image": "/images/yuanBeiTu586.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11136,7 +11136,7 @@
   {
     "id": "1587",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu587.gif",
+    "image": "/images/yuanBeiTu587.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11155,7 +11155,7 @@
   {
     "id": "1588",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu588.gif",
+    "image": "/images/yuanBeiTu588.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11174,7 +11174,7 @@
   {
     "id": "1589",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu589.gif",
+    "image": "/images/yuanBeiTu589.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11212,7 +11212,7 @@
   {
     "id": "1591",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu591.gif",
+    "image": "/images/yuanBeiTu591.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11231,7 +11231,7 @@
   {
     "id": "1592",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu592.gif",
+    "image": "/images/yuanBeiTu592.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11250,7 +11250,7 @@
   {
     "id": "1593",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu593.gif",
+    "image": "/images/yuanBeiTu593.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11269,7 +11269,7 @@
   {
     "id": "1594",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu594.gif",
+    "image": "/images/yuanBeiTu594.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11288,7 +11288,7 @@
   {
     "id": "1595",
     "question": "这个标志提示哪种车型禁止通行？",
-    "image": "/uploadFile/yuanBeiTu595.gif",
+    "image": "/images/yuanBeiTu595.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11307,7 +11307,7 @@
   {
     "id": "1596",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu596.gif",
+    "image": "/images/yuanBeiTu596.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11326,7 +11326,7 @@
   {
     "id": "1597",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu597.gif",
+    "image": "/images/yuanBeiTu597.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11345,7 +11345,7 @@
   {
     "id": "1598",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu598.gif",
+    "image": "/images/yuanBeiTu598.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11364,7 +11364,7 @@
   {
     "id": "1599",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu599.gif",
+    "image": "/images/yuanBeiTu599.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11383,7 +11383,7 @@
   {
     "id": "1600",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu600.gif",
+    "image": "/images/yuanBeiTu600.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11402,7 +11402,7 @@
   {
     "id": "1601",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu601.gif",
+    "image": "/images/yuanBeiTu601.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11421,7 +11421,7 @@
   {
     "id": "1602",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu602.gif",
+    "image": "/images/yuanBeiTu602.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11440,7 +11440,7 @@
   {
     "id": "1603",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu603.gif",
+    "image": "/images/yuanBeiTu603.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11459,7 +11459,7 @@
   {
     "id": "1604",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu604.gif",
+    "image": "/images/yuanBeiTu604.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11478,7 +11478,7 @@
   {
     "id": "1605",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu605.gif",
+    "image": "/images/yuanBeiTu605.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11497,7 +11497,7 @@
   {
     "id": "1606",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu606.gif",
+    "image": "/images/yuanBeiTu606.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11516,7 +11516,7 @@
   {
     "id": "1607",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu607.gif",
+    "image": "/images/yuanBeiTu607.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11535,7 +11535,7 @@
   {
     "id": "1608",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu608.gif",
+    "image": "/images/yuanBeiTu608.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11554,7 +11554,7 @@
   {
     "id": "1609",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu609.gif",
+    "image": "/images/yuanBeiTu609.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11573,7 +11573,7 @@
   {
     "id": "1610",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu610.gif",
+    "image": "/images/yuanBeiTu610.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11592,7 +11592,7 @@
   {
     "id": "1611",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu611.gif",
+    "image": "/images/yuanBeiTu611.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11611,7 +11611,7 @@
   {
     "id": "1612",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu612.gif",
+    "image": "/images/yuanBeiTu612.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11630,7 +11630,7 @@
   {
     "id": "1613",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu613.gif",
+    "image": "/images/yuanBeiTu613.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11649,7 +11649,7 @@
   {
     "id": "1614",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu614.gif",
+    "image": "/images/yuanBeiTu614.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11687,7 +11687,7 @@
   {
     "id": "1616",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu616.gif",
+    "image": "/images/yuanBeiTu616.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11706,7 +11706,7 @@
   {
     "id": "1617",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu617.gif",
+    "image": "/images/yuanBeiTu617.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11725,7 +11725,7 @@
   {
     "id": "1618",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu618.gif",
+    "image": "/images/yuanBeiTu618.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11744,7 +11744,7 @@
   {
     "id": "1619",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu619.gif",
+    "image": "/images/yuanBeiTu619.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11763,7 +11763,7 @@
   {
     "id": "1620",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu620.gif",
+    "image": "/images/yuanBeiTu620.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11782,7 +11782,7 @@
   {
     "id": "1621",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu621.gif",
+    "image": "/images/yuanBeiTu621.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11801,7 +11801,7 @@
   {
     "id": "1622",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu622.gif",
+    "image": "/images/yuanBeiTu622.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11820,7 +11820,7 @@
   {
     "id": "1623",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu623.gif",
+    "image": "/images/yuanBeiTu623.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11839,7 +11839,7 @@
   {
     "id": "1624",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu624.gif",
+    "image": "/images/yuanBeiTu624.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11858,7 +11858,7 @@
   {
     "id": "1625",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu625.gif",
+    "image": "/images/yuanBeiTu625.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11877,7 +11877,7 @@
   {
     "id": "1626",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu626.gif",
+    "image": "/images/yuanBeiTu626.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11896,7 +11896,7 @@
   {
     "id": "1627",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu627.gif",
+    "image": "/images/yuanBeiTu627.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11915,7 +11915,7 @@
   {
     "id": "1628",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu628.gif",
+    "image": "/images/yuanBeiTu628.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11934,7 +11934,7 @@
   {
     "id": "1629",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu629.gif",
+    "image": "/images/yuanBeiTu629.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11953,7 +11953,7 @@
   {
     "id": "1630",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu630.gif",
+    "image": "/images/yuanBeiTu630.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11972,7 +11972,7 @@
   {
     "id": "1631",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu631.gif",
+    "image": "/images/yuanBeiTu631.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -11991,7 +11991,7 @@
   {
     "id": "1632",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu632.gif",
+    "image": "/images/yuanBeiTu632.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12010,7 +12010,7 @@
   {
     "id": "1633",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu633.gif",
+    "image": "/images/yuanBeiTu633.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12029,7 +12029,7 @@
   {
     "id": "1634",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu634.gif",
+    "image": "/images/yuanBeiTu634.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12048,7 +12048,7 @@
   {
     "id": "1635",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu635.gif",
+    "image": "/images/yuanBeiTu635.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12067,7 +12067,7 @@
   {
     "id": "1636",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu636.gif",
+    "image": "/images/yuanBeiTu636.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12086,7 +12086,7 @@
   {
     "id": "1637",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu637.gif",
+    "image": "/images/yuanBeiTu637.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12105,7 +12105,7 @@
   {
     "id": "1638",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu638.gif",
+    "image": "/images/yuanBeiTu638.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12124,7 +12124,7 @@
   {
     "id": "1639",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu639.gif",
+    "image": "/images/yuanBeiTu639.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12143,7 +12143,7 @@
   {
     "id": "1640",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu640.gif",
+    "image": "/images/yuanBeiTu640.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12162,7 +12162,7 @@
   {
     "id": "1641",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu641.gif",
+    "image": "/images/yuanBeiTu641.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12181,7 +12181,7 @@
   {
     "id": "1642",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu642.gif",
+    "image": "/images/yuanBeiTu642.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12200,7 +12200,7 @@
   {
     "id": "1643",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu643.gif",
+    "image": "/images/yuanBeiTu643.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12219,7 +12219,7 @@
   {
     "id": "1644",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu644.gif",
+    "image": "/images/yuanBeiTu644.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12238,7 +12238,7 @@
   {
     "id": "1645",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu645.gif",
+    "image": "/images/yuanBeiTu645.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12257,7 +12257,7 @@
   {
     "id": "1646",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu646.gif",
+    "image": "/images/yuanBeiTu646.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12276,7 +12276,7 @@
   {
     "id": "1647",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu647.gif",
+    "image": "/images/yuanBeiTu647.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12295,7 +12295,7 @@
   {
     "id": "1648",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu648.gif",
+    "image": "/images/yuanBeiTu648.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12314,7 +12314,7 @@
   {
     "id": "1649",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu649.gif",
+    "image": "/images/yuanBeiTu649.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12333,7 +12333,7 @@
   {
     "id": "1650",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu650.gif",
+    "image": "/images/yuanBeiTu650.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12352,7 +12352,7 @@
   {
     "id": "1651",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu651.gif",
+    "image": "/images/yuanBeiTu651.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12371,7 +12371,7 @@
   {
     "id": "1652",
     "question": "这属于哪一类标志？",
-    "image": "/uploadFile/yuanBeiTu652.gif",
+    "image": "/images/yuanBeiTu652.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12409,7 +12409,7 @@
   {
     "id": "1654",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu654.gif",
+    "image": "/images/yuanBeiTu654.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12428,7 +12428,7 @@
   {
     "id": "1655",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu655.gif",
+    "image": "/images/yuanBeiTu655.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12447,7 +12447,7 @@
   {
     "id": "1656",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu656.gif",
+    "image": "/images/yuanBeiTu656.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12466,7 +12466,7 @@
   {
     "id": "1657",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu657.gif",
+    "image": "/images/yuanBeiTu657.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12485,7 +12485,7 @@
   {
     "id": "1658",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu658.gif",
+    "image": "/images/yuanBeiTu658.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12504,7 +12504,7 @@
   {
     "id": "1659",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu659.gif",
+    "image": "/images/yuanBeiTu659.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12523,7 +12523,7 @@
   {
     "id": "1660",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu660.gif",
+    "image": "/images/yuanBeiTu660.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12542,7 +12542,7 @@
   {
     "id": "1661",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu661.gif",
+    "image": "/images/yuanBeiTu661.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12561,7 +12561,7 @@
   {
     "id": "1662",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu662.gif",
+    "image": "/images/yuanBeiTu662.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12580,7 +12580,7 @@
   {
     "id": "1663",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu663.gif",
+    "image": "/images/yuanBeiTu663.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12599,7 +12599,7 @@
   {
     "id": "1664",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu664.gif",
+    "image": "/images/yuanBeiTu664.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12618,7 +12618,7 @@
   {
     "id": "1665",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu665.gif",
+    "image": "/images/yuanBeiTu665.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12637,7 +12637,7 @@
   {
     "id": "1666",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu666.gif",
+    "image": "/images/yuanBeiTu666.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12656,7 +12656,7 @@
   {
     "id": "1667",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu667.gif",
+    "image": "/images/yuanBeiTu667.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12675,7 +12675,7 @@
   {
     "id": "1668",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu668.gif",
+    "image": "/images/yuanBeiTu668.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12694,7 +12694,7 @@
   {
     "id": "1669",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu669.gif",
+    "image": "/images/yuanBeiTu669.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12713,7 +12713,7 @@
   {
     "id": "1670",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu670.gif",
+    "image": "/images/yuanBeiTu670.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12732,7 +12732,7 @@
   {
     "id": "1671",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu671.gif",
+    "image": "/images/yuanBeiTu671.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12751,7 +12751,7 @@
   {
     "id": "1672",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu672.gif",
+    "image": "/images/yuanBeiTu672.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12770,7 +12770,7 @@
   {
     "id": "1673",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu673.gif",
+    "image": "/images/yuanBeiTu673.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12789,7 +12789,7 @@
   {
     "id": "1674",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu674.gif",
+    "image": "/images/yuanBeiTu674.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12808,7 +12808,7 @@
   {
     "id": "1675",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu675.gif",
+    "image": "/images/yuanBeiTu675.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12827,7 +12827,7 @@
   {
     "id": "1676",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu676.gif",
+    "image": "/images/yuanBeiTu676.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12846,7 +12846,7 @@
   {
     "id": "1677",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu677.gif",
+    "image": "/images/yuanBeiTu677.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12865,7 +12865,7 @@
   {
     "id": "1678",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu678.gif",
+    "image": "/images/yuanBeiTu678.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12884,7 +12884,7 @@
   {
     "id": "1679",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu679.gif",
+    "image": "/images/yuanBeiTu679.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12903,7 +12903,7 @@
   {
     "id": "1680",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu680.gif",
+    "image": "/images/yuanBeiTu680.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12922,7 +12922,7 @@
   {
     "id": "1681",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu681.gif",
+    "image": "/images/yuanBeiTu681.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12941,7 +12941,7 @@
   {
     "id": "1682",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu682.gif",
+    "image": "/images/yuanBeiTu682.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12960,7 +12960,7 @@
   {
     "id": "1683",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu683.gif",
+    "image": "/images/yuanBeiTu683.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12979,7 +12979,7 @@
   {
     "id": "1684",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu684.gif",
+    "image": "/images/yuanBeiTu684.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -12998,7 +12998,7 @@
   {
     "id": "1685",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu685.gif",
+    "image": "/images/yuanBeiTu685.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13017,7 +13017,7 @@
   {
     "id": "1686",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu686.gif",
+    "image": "/images/yuanBeiTu686.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13036,7 +13036,7 @@
   {
     "id": "1687",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu687.gif",
+    "image": "/images/yuanBeiTu687.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13055,7 +13055,7 @@
   {
     "id": "1688",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu688.gif",
+    "image": "/images/yuanBeiTu688.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13074,7 +13074,7 @@
   {
     "id": "1689",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu689.gif",
+    "image": "/images/yuanBeiTu689.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13093,7 +13093,7 @@
   {
     "id": "1690",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu690.gif",
+    "image": "/images/yuanBeiTu690.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13112,7 +13112,7 @@
   {
     "id": "1691",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu691.gif",
+    "image": "/images/yuanBeiTu691.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13131,7 +13131,7 @@
   {
     "id": "1692",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu692.gif",
+    "image": "/images/yuanBeiTu692.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13150,7 +13150,7 @@
   {
     "id": "1693",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu693.gif",
+    "image": "/images/yuanBeiTu693.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13169,7 +13169,7 @@
   {
     "id": "1694",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu694.gif",
+    "image": "/images/yuanBeiTu694.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13188,7 +13188,7 @@
   {
     "id": "1695",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu695.gif",
+    "image": "/images/yuanBeiTu695.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13207,7 +13207,7 @@
   {
     "id": "1696",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu696.gif",
+    "image": "/images/yuanBeiTu696.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13226,7 +13226,7 @@
   {
     "id": "1697",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu697.gif",
+    "image": "/images/yuanBeiTu697.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13245,7 +13245,7 @@
   {
     "id": "1698",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu698.gif",
+    "image": "/images/yuanBeiTu698.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13264,7 +13264,7 @@
   {
     "id": "1699",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu699.gif",
+    "image": "/images/yuanBeiTu699.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13283,7 +13283,7 @@
   {
     "id": "1700",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu700.gif",
+    "image": "/images/yuanBeiTu700.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13302,7 +13302,7 @@
   {
     "id": "1701",
     "question": "这个标志预告什么？",
-    "image": "/uploadFile/yuanBeiTu701.gif",
+    "image": "/images/yuanBeiTu701.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13321,7 +13321,7 @@
   {
     "id": "1702",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu702.gif",
+    "image": "/images/yuanBeiTu702.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13340,7 +13340,7 @@
   {
     "id": "1703",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu703.gif",
+    "image": "/images/yuanBeiTu703.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13359,7 +13359,7 @@
   {
     "id": "1704",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu704.gif",
+    "image": "/images/yuanBeiTu704.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13378,7 +13378,7 @@
   {
     "id": "1705",
     "question": "路中心黄色虚线属于哪一类标线？",
-    "image": "/uploadFile/yuanBeiTu705.gif",
+    "image": "/images/yuanBeiTu705.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13416,7 +13416,7 @@
   {
     "id": "1707",
     "question": "路中白色虚线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu707.gif",
+    "image": "/images/yuanBeiTu707.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13435,7 +13435,7 @@
   {
     "id": "1708",
     "question": "路中黄色分界线的作用是什么？",
-    "image": "/uploadFile/yuanBeiTu708.gif",
+    "image": "/images/yuanBeiTu708.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13454,7 +13454,7 @@
   {
     "id": "1709",
     "question": "路中两条双黄色虚线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu709.gif",
+    "image": "/images/yuanBeiTu709.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13473,7 +13473,7 @@
   {
     "id": "1710",
     "question": "路两侧的车行道边缘白色实线是什么含义？",
-    "image": "/uploadFile/yuanBeiTu710.gif",
+    "image": "/images/yuanBeiTu710.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13492,7 +13492,7 @@
   {
     "id": "1711",
     "question": "路右侧车行道边缘白色虚线是什么含义？",
-    "image": "/uploadFile/yuanBeiTu711.gif",
+    "image": "/images/yuanBeiTu711.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13511,7 +13511,7 @@
   {
     "id": "1712",
     "question": "图中圈内两条白色虚线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu712.gif",
+    "image": "/images/yuanBeiTu712.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13530,7 +13530,7 @@
   {
     "id": "1713",
     "question": "图中圈内白色虚线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu713.gif",
+    "image": "/images/yuanBeiTu713.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13549,7 +13549,7 @@
   {
     "id": "1714",
     "question": "图中圈内黄色虚线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu714.gif",
+    "image": "/images/yuanBeiTu714.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13568,7 +13568,7 @@
   {
     "id": "1715",
     "question": "图中圈内白色实线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu715.gif",
+    "image": "/images/yuanBeiTu715.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13587,7 +13587,7 @@
   {
     "id": "1716",
     "question": "图中圈内的锯齿状白色实线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu716.gif",
+    "image": "/images/yuanBeiTu716.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13606,7 +13606,7 @@
   {
     "id": "1717",
     "question": "图中圈内的路面标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu717.gif",
+    "image": "/images/yuanBeiTu717.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13625,7 +13625,7 @@
   {
     "id": "1718",
     "question": "这个地面标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu718.gif",
+    "image": "/images/yuanBeiTu718.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13644,7 +13644,7 @@
   {
     "id": "1719",
     "question": "图中圈内的白色折线是什么标线？",
-    "image": "/uploadFile/yuanBeiTu719.gif",
+    "image": "/images/yuanBeiTu719.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13663,7 +13663,7 @@
   {
     "id": "1720",
     "question": "图中圈内的白色半圆状标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu720.gif",
+    "image": "/images/yuanBeiTu720.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13682,7 +13682,7 @@
   {
     "id": "1721",
     "question": "路面由白色虚线和三角地带标线组成的是什么标线？",
-    "image": "/uploadFile/yuanBeiTu721.gif",
+    "image": "/images/yuanBeiTu721.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13701,7 +13701,7 @@
   {
     "id": "1722",
     "question": "路面上白色虚线和三角地带标线组成的是什么标线？",
-    "image": "/uploadFile/yuanBeiTu722.gif",
+    "image": "/images/yuanBeiTu722.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13720,7 +13720,7 @@
   {
     "id": "1723",
     "question": "这种白色矩形标线框含义是什么？",
-    "image": "/uploadFile/yuanBeiTu723.gif",
+    "image": "/images/yuanBeiTu723.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13739,7 +13739,7 @@
   {
     "id": "1724",
     "question": "这种停车标线含义是什么？",
-    "image": "/uploadFile/yuanBeiTu724.gif",
+    "image": "/images/yuanBeiTu724.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13758,7 +13758,7 @@
   {
     "id": "1725",
     "question": "这种白色矩形标线框含义是什么？",
-    "image": "/uploadFile/yuanBeiTu725.gif",
+    "image": "/images/yuanBeiTu725.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13777,7 +13777,7 @@
   {
     "id": "1726",
     "question": "红色圆圈内标线含义是什么？",
-    "image": "/uploadFile/yuanBeiTu726.gif",
+    "image": "/images/yuanBeiTu726.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13796,7 +13796,7 @@
   {
     "id": "1727",
     "question": "红色圆圈内标线含义是什么？",
-    "image": "/uploadFile/yuanBeiTu727.gif",
+    "image": "/images/yuanBeiTu727.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13815,7 +13815,7 @@
   {
     "id": "1728",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu728.gif",
+    "image": "/images/yuanBeiTu728.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13834,7 +13834,7 @@
   {
     "id": "1729",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu729.gif",
+    "image": "/images/yuanBeiTu729.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13853,7 +13853,7 @@
   {
     "id": "1730",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu730.gif",
+    "image": "/images/yuanBeiTu730.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13872,7 +13872,7 @@
   {
     "id": "1731",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu731.gif",
+    "image": "/images/yuanBeiTu731.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13891,7 +13891,7 @@
   {
     "id": "1732",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu732.gif",
+    "image": "/images/yuanBeiTu732.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13910,7 +13910,7 @@
   {
     "id": "1733",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu733.gif",
+    "image": "/images/yuanBeiTu733.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13929,7 +13929,7 @@
   {
     "id": "1734",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu734.gif",
+    "image": "/images/yuanBeiTu734.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13948,7 +13948,7 @@
   {
     "id": "1735",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu735.gif",
+    "image": "/images/yuanBeiTu735.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13967,7 +13967,7 @@
   {
     "id": "1736",
     "question": "这个导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu736.gif",
+    "image": "/images/yuanBeiTu736.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -13986,7 +13986,7 @@
   {
     "id": "1737",
     "question": "路面上导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu737.gif",
+    "image": "/images/yuanBeiTu737.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14005,7 +14005,7 @@
   {
     "id": "1738",
     "question": "路面上导向箭头是何含义？",
-    "image": "/uploadFile/yuanBeiTu738.gif",
+    "image": "/images/yuanBeiTu738.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14024,7 +14024,7 @@
   {
     "id": "1739",
     "question": "这个路面数字标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu739.gif",
+    "image": "/images/yuanBeiTu739.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14043,7 +14043,7 @@
   {
     "id": "1740",
     "question": "这个路面标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu740.gif",
+    "image": "/images/yuanBeiTu740.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14062,7 +14062,7 @@
   {
     "id": "1741",
     "question": "这个路面标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu741.gif",
+    "image": "/images/yuanBeiTu741.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14081,7 +14081,7 @@
   {
     "id": "1742",
     "question": "这个路面标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu742.gif",
+    "image": "/images/yuanBeiTu742.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14100,7 +14100,7 @@
   {
     "id": "1743",
     "question": "路中心的双黄实线属于哪一类标线？",
-    "image": "/uploadFile/yuanBeiTu743.gif",
+    "image": "/images/yuanBeiTu743.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14119,7 +14119,7 @@
   {
     "id": "1744",
     "question": "路中心双黄实线是何含义？",
-    "image": "/uploadFile/yuanBeiTu744.gif",
+    "image": "/images/yuanBeiTu744.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14138,7 +14138,7 @@
   {
     "id": "1745",
     "question": "路中心黄色虚实线是何含义？",
-    "image": "/uploadFile/yuanBeiTu745.gif",
+    "image": "/images/yuanBeiTu745.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14157,7 +14157,7 @@
   {
     "id": "1746",
     "question": "路中心的黄色斜线填充是何含义？",
-    "image": "/uploadFile/yuanBeiTu746.gif",
+    "image": "/images/yuanBeiTu746.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14176,7 +14176,7 @@
   {
     "id": "1747",
     "question": "路中心白色实线是何含义？",
-    "image": "/uploadFile/yuanBeiTu747.gif",
+    "image": "/images/yuanBeiTu747.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14195,7 +14195,7 @@
   {
     "id": "1748",
     "question": "路缘石上的黄色虚线是何含义？",
-    "image": "/uploadFile/yuanBeiTu748.gif",
+    "image": "/images/yuanBeiTu748.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14214,7 +14214,7 @@
   {
     "id": "1749",
     "question": "路缘石上的黄色实线是何含义？",
-    "image": "/uploadFile/yuanBeiTu749.gif",
+    "image": "/images/yuanBeiTu749.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14233,7 +14233,7 @@
   {
     "id": "1750",
     "question": "图中圈内白色横实线是何含义？",
-    "image": "/uploadFile/yuanBeiTu750.gif",
+    "image": "/images/yuanBeiTu750.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14252,7 +14252,7 @@
   {
     "id": "1751",
     "question": "路口最前端的双白实线是什么含义？",
-    "image": "/uploadFile/yuanBeiTu751.gif",
+    "image": "/images/yuanBeiTu751.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14271,7 +14271,7 @@
   {
     "id": "1752",
     "question": "路口最前端的双白虚线是什么含义？",
-    "image": "/uploadFile/yuanBeiTu752.gif",
+    "image": "/images/yuanBeiTu752.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14290,7 +14290,7 @@
   {
     "id": "1753",
     "question": "图中圈内三角填充区域是什么标线？",
-    "image": "/uploadFile/yuanBeiTu753.gif",
+    "image": "/images/yuanBeiTu753.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14309,7 +14309,7 @@
   {
     "id": "1754",
     "question": "这个路面标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu754.gif",
+    "image": "/images/yuanBeiTu754.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14328,7 +14328,7 @@
   {
     "id": "1755",
     "question": "这个路面标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu755.gif",
+    "image": "/images/yuanBeiTu755.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14347,7 +14347,7 @@
   {
     "id": "1756",
     "question": "图中路口中央黄色路面标记是什么标线？",
-    "image": "/uploadFile/yuanBeiTu756.gif",
+    "image": "/images/yuanBeiTu756.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14366,7 +14366,7 @@
   {
     "id": "1757",
     "question": "图中圈内两条黄色虚线间的区域是何含义？",
-    "image": "/uploadFile/yuanBeiTu757.gif",
+    "image": "/images/yuanBeiTu757.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14385,7 +14385,7 @@
   {
     "id": "1758",
     "question": "道路最左侧白色虚线区域是何含义？",
-    "image": "/uploadFile/yuanBeiTu758.gif",
+    "image": "/images/yuanBeiTu758.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14404,7 +14404,7 @@
   {
     "id": "1759",
     "question": "路面上的黄色标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu759.gif",
+    "image": "/images/yuanBeiTu759.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14423,7 +14423,7 @@
   {
     "id": "1760",
     "question": "路面上的黄色标记是何含义？",
-    "image": "/uploadFile/yuanBeiTu760.gif",
+    "image": "/images/yuanBeiTu760.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14442,7 +14442,7 @@
   {
     "id": "1761",
     "question": "路面上的白色标线是何含义？",
-    "image": "/uploadFile/yuanBeiTu761.gif",
+    "image": "/images/yuanBeiTu761.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14461,7 +14461,7 @@
   {
     "id": "1762",
     "question": "路面上的黄色标线是何含义？",
-    "image": "/uploadFile/yuanBeiTu762.gif",
+    "image": "/images/yuanBeiTu762.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14480,7 +14480,7 @@
   {
     "id": "1763",
     "question": "路面上的黄色填充标线是何含义？",
-    "image": "/uploadFile/yuanBeiTu763.gif",
+    "image": "/images/yuanBeiTu763.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14499,7 +14499,7 @@
   {
     "id": "1764",
     "question": "这种黄黑相间的倾斜线条是什么标记？",
-    "image": "/uploadFile/yuanBeiTu764.gif",
+    "image": "/images/yuanBeiTu764.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14518,7 +14518,7 @@
   {
     "id": "1765",
     "question": "路面上的菱形块虚线是何含义？",
-    "image": "/uploadFile/yuanBeiTu765.gif",
+    "image": "/images/yuanBeiTu765.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14537,7 +14537,7 @@
   {
     "id": "1766",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu766.gif",
+    "image": "/images/yuanBeiTu766.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14556,7 +14556,7 @@
   {
     "id": "1767",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu767.gif",
+    "image": "/images/yuanBeiTu767.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14575,7 +14575,7 @@
   {
     "id": "1768",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu768.gif",
+    "image": "/images/yuanBeiTu768.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14594,7 +14594,7 @@
   {
     "id": "1769",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu769.gif",
+    "image": "/images/yuanBeiTu769.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14613,7 +14613,7 @@
   {
     "id": "1770",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu770.gif",
+    "image": "/images/yuanBeiTu770.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14632,7 +14632,7 @@
   {
     "id": "1771",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu771.gif",
+    "image": "/images/yuanBeiTu771.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14651,7 +14651,7 @@
   {
     "id": "1772",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu772.gif",
+    "image": "/images/yuanBeiTu772.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14670,7 +14670,7 @@
   {
     "id": "1773",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu773.gif",
+    "image": "/images/yuanBeiTu773.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14689,7 +14689,7 @@
   {
     "id": "1774",
     "question": "这一组交通警察手势是什么信号？",
-    "image": "/uploadFile/yuanBeiTu774.gif",
+    "image": "/images/yuanBeiTu774.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14708,7 +14708,7 @@
   {
     "id": "1775",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu775.gif",
+    "image": "/images/yuanBeiTu775.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14727,7 +14727,7 @@
   {
     "id": "1776",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu776.gif",
+    "image": "/images/yuanBeiTu776.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14746,7 +14746,7 @@
   {
     "id": "1777",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu777.gif",
+    "image": "/images/yuanBeiTu777.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -14765,7 +14765,7 @@
   {
     "id": "1778",
     "question": "这种标志的作用是警告车辆驾驶人前方有危险，谨慎通行。",
-    "image": "/uploadFile/yuanBeiTu778.gif",
+    "image": "/images/yuanBeiTu778.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14784,7 +14784,7 @@
   {
     "id": "1779",
     "question": "这个标志的作用是用以警告车辆驾驶人谨慎慢行，注意横向来车。",
-    "image": "/uploadFile/yuanBeiTu779.gif",
+    "image": "/images/yuanBeiTu779.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14803,7 +14803,7 @@
   {
     "id": "1780",
     "question": "这个标志的含义是前方即将行驶至Y形交叉路口。",
-    "image": "/uploadFile/yuanBeiTu780.gif",
+    "image": "/images/yuanBeiTu780.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14822,7 +14822,7 @@
   {
     "id": "1781",
     "question": "这个标志的含义是警告前方道路有障碍物，车辆减速绕行。",
-    "image": "/uploadFile/yuanBeiTu781.gif",
+    "image": "/images/yuanBeiTu781.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14841,7 +14841,7 @@
   {
     "id": "1782",
     "question": "这个标志的含义是警告前方出现向左的急转弯路。",
-    "image": "/uploadFile/yuanBeiTu782.gif",
+    "image": "/images/yuanBeiTu782.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14860,7 +14860,7 @@
   {
     "id": "1783",
     "question": "这个标志的含义是警告前方道路易滑，注意慢行。",
-    "image": "/uploadFile/yuanBeiTu783.gif",
+    "image": "/images/yuanBeiTu783.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14879,7 +14879,7 @@
   {
     "id": "1784",
     "question": "这个标志的含义是警告前方有两个相邻的反向转弯道路。",
-    "image": "/uploadFile/yuanBeiTu784.gif",
+    "image": "/images/yuanBeiTu784.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14898,7 +14898,7 @@
   {
     "id": "1785",
     "question": "这个标志的含义是提醒前方桥面宽度变窄。",
-    "image": "/uploadFile/yuanBeiTu785.gif",
+    "image": "/images/yuanBeiTu785.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14917,7 +14917,7 @@
   {
     "id": "1786",
     "question": "这个标志的含义是提醒前方右侧行车道或路面变窄。",
-    "image": "/uploadFile/yuanBeiTu786.gif",
+    "image": "/images/yuanBeiTu786.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14936,7 +14936,7 @@
   {
     "id": "1787",
     "question": "这个标志的含义是提醒前方左侧行车道或路面变窄。",
-    "image": "/uploadFile/yuanBeiTu787.gif",
+    "image": "/images/yuanBeiTu787.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14955,7 +14955,7 @@
   {
     "id": "1788",
     "question": "这个标志的含义是提醒前方两侧行车道或路面变窄。",
-    "image": "/uploadFile/yuanBeiTu788.gif",
+    "image": "/images/yuanBeiTu788.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14974,7 +14974,7 @@
   {
     "id": "1789",
     "question": "这个标志的含义是提醒前方道路变为不分离双向行驶路段。",
-    "image": "/uploadFile/yuanBeiTu789.gif",
+    "image": "/images/yuanBeiTu789.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -14993,7 +14993,7 @@
   {
     "id": "1790",
     "question": "这个标志的含义是警告车辆驾驶人前方是人行横道。",
-    "image": "/uploadFile/yuanBeiTu790.gif",
+    "image": "/images/yuanBeiTu790.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15012,7 +15012,7 @@
   {
     "id": "1791",
     "question": "这个标志的含义是警告车辆驾驶人前方是学校区域。",
-    "image": "/uploadFile/yuanBeiTu791.gif",
+    "image": "/images/yuanBeiTu791.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15031,7 +15031,7 @@
   {
     "id": "1792",
     "question": "这个标志的含义是警告车辆驾驶人注意前方设有信号灯。",
-    "image": "/uploadFile/yuanBeiTu792.gif",
+    "image": "/images/yuanBeiTu792.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15050,7 +15050,7 @@
   {
     "id": "1793",
     "question": "这个标志的含义是提醒车辆驾驶人前方是傍山险路路段。",
-    "image": "/uploadFile/yuanBeiTu793.gif",
+    "image": "/images/yuanBeiTu793.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15069,7 +15069,7 @@
   {
     "id": "1794",
     "question": "这个标志的含义是提醒车辆驾驶人前方有很强的侧向风。",
-    "image": "/uploadFile/yuanBeiTu794.gif",
+    "image": "/images/yuanBeiTu794.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15088,7 +15088,7 @@
   {
     "id": "1795",
     "question": "这个标志的含义是提醒车辆驾驶人前方是急转弯路段。",
-    "image": "/uploadFile/yuanBeiTu795.gif",
+    "image": "/images/yuanBeiTu795.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15107,7 +15107,7 @@
   {
     "id": "1796",
     "question": "这个标志的含义是提醒车辆驾驶人前方是堤坝路段。",
-    "image": "/uploadFile/yuanBeiTu796.gif",
+    "image": "/images/yuanBeiTu796.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15126,7 +15126,7 @@
   {
     "id": "1797",
     "question": "这个标志的含义是提醒车辆驾驶人前方路段通过村庄或集镇。",
-    "image": "/uploadFile/yuanBeiTu797.gif",
+    "image": "/images/yuanBeiTu797.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15145,7 +15145,7 @@
   {
     "id": "1798",
     "question": "这个标志的含义是提醒车辆驾驶人前方是单向行驶并且照明不好的涵洞。",
-    "image": "/uploadFile/yuanBeiTu798.gif",
+    "image": "/images/yuanBeiTu798.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15164,7 +15164,7 @@
   {
     "id": "1799",
     "question": "这个标志的含义是提醒车辆驾驶人前方是车辆渡口。",
-    "image": "/uploadFile/yuanBeiTu799.gif",
+    "image": "/images/yuanBeiTu799.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15183,7 +15183,7 @@
   {
     "id": "1800",
     "question": "这个标志的含义是提醒车辆驾驶人前方是桥头跳车较严重的路段。",
-    "image": "/uploadFile/yuanBeiTu800.gif",
+    "image": "/images/yuanBeiTu800.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15202,7 +15202,7 @@
   {
     "id": "1801",
     "question": "这个标志的含义是提醒车辆驾驶人前方路面颠簸或有桥头跳车现象。",
-    "image": "/uploadFile/yuanBeiTu801.gif",
+    "image": "/images/yuanBeiTu801.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15221,7 +15221,7 @@
   {
     "id": "1802",
     "question": "这个标志的含义是提醒车辆驾驶人前方是过水路面或漫水桥路段。",
-    "image": "/uploadFile/yuanBeiTu802.gif",
+    "image": "/images/yuanBeiTu802.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15240,7 +15240,7 @@
   {
     "id": "1803",
     "question": "这个标志的含义是提醒车辆驾驶人前方是无人看守铁路道口。",
-    "image": "/uploadFile/yuanBeiTu803.gif",
+    "image": "/images/yuanBeiTu803.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15259,7 +15259,7 @@
   {
     "id": "1804",
     "question": "这个标志的含义是提醒车辆驾驶人前方是无人看守铁路道口。",
-    "image": "/uploadFile/yuanBeiTu804.gif",
+    "image": "/images/yuanBeiTu804.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15278,7 +15278,7 @@
   {
     "id": "1805",
     "question": "这个标志的含义是提醒车辆驾驶人前方是非机动车道。",
-    "image": "/uploadFile/yuanBeiTu805.gif",
+    "image": "/images/yuanBeiTu805.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15297,7 +15297,7 @@
   {
     "id": "1806",
     "question": "这个标志的含义是告示前方是拥堵路段，注意减速慢行。",
-    "image": "/uploadFile/yuanBeiTu806.gif",
+    "image": "/images/yuanBeiTu806.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15316,7 +15316,7 @@
   {
     "id": "1807",
     "question": "这个标志的含义是告示前方道路施工，车辆左右绕行。",
-    "image": "/uploadFile/yuanBeiTu807.gif",
+    "image": "/images/yuanBeiTu807.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15335,7 +15335,7 @@
   {
     "id": "1808",
     "question": "这个标志的含义是告示前方道路有障碍物，车辆左侧绕行。",
-    "image": "/uploadFile/yuanBeiTu808.gif",
+    "image": "/images/yuanBeiTu808.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15354,7 +15354,7 @@
   {
     "id": "1809",
     "question": "这个标志的含义是告示前方道路是单向通行路段。",
-    "image": "/uploadFile/yuanBeiTu809.gif",
+    "image": "/images/yuanBeiTu809.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15373,7 +15373,7 @@
   {
     "id": "1810",
     "question": "这个标志的含义是告示前方是塌方路段，车辆应绕道行驶。",
-    "image": "/uploadFile/yuanBeiTu810.gif",
+    "image": "/images/yuanBeiTu810.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15392,7 +15392,7 @@
   {
     "id": "1811",
     "question": "这个标志的含义是告示车辆驾驶人应慢行或停车，确保干道车辆优先。",
-    "image": "/uploadFile/yuanBeiTu811.gif",
+    "image": "/images/yuanBeiTu811.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15411,7 +15411,7 @@
   {
     "id": "1812",
     "question": "这个标志的含义是表示车辆会车时，对方车辆应停车让行。",
-    "image": "/uploadFile/yuanBeiTu812.gif",
+    "image": "/images/yuanBeiTu812.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15430,7 +15430,7 @@
   {
     "id": "1813",
     "question": "这个标志的含义是指示此处设有室内停车场。",
-    "image": "/uploadFile/yuanBeiTu813.gif",
+    "image": "/images/yuanBeiTu813.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15449,7 +15449,7 @@
   {
     "id": "1814",
     "question": "这个标志的含义是指示此处设有室内停车场。",
-    "image": "/uploadFile/yuanBeiTu814.gif",
+    "image": "/images/yuanBeiTu814.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15468,7 +15468,7 @@
   {
     "id": "1815",
     "question": "路中心黄色虚线的含义是分隔对向交通流，在保证安全的前提下，可越线超车或转弯。",
-    "image": "/uploadFile/yuanBeiTu815.gif",
+    "image": "/images/yuanBeiTu815.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15487,7 +15487,7 @@
   {
     "id": "1816",
     "question": "这个地面标记的含义是预告前方设有交叉路口。",
-    "image": "/uploadFile/yuanBeiTu816.gif",
+    "image": "/images/yuanBeiTu816.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15506,7 +15506,7 @@
   {
     "id": "1817",
     "question": "路中心的双黄实线作用是分隔对向交通流，在保证安全的前提下，可越线超车或转弯。",
-    "image": "/uploadFile/yuanBeiTu817.gif",
+    "image": "/images/yuanBeiTu817.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15544,7 +15544,7 @@
   {
     "id": "1819",
     "question": "如图所示，在这种情况下遇到红灯交替闪烁时，要尽快通过道口。",
-    "image": "/uploadFile/yuanBeiTu819.gif",
+    "image": "/images/yuanBeiTu819.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15563,7 +15563,7 @@
   {
     "id": "1820",
     "question": "如图所示，以下哪种情况可以超车。",
-    "image": "/uploadFile/yuanBeiTu820.gif",
+    "image": "/images/yuanBeiTu820.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15582,7 +15582,7 @@
   {
     "id": "1821",
     "question": "如图所示，这种情况下只要后方、对向无来车，可以掉头。",
-    "image": "/uploadFile/yuanBeiTu821.gif",
+    "image": "/images/yuanBeiTu821.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15620,7 +15620,7 @@
   {
     "id": "1823",
     "question": "如图所示，B车具有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu823.gif",
+    "image": "/images/yuanBeiTu823.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15639,7 +15639,7 @@
   {
     "id": "1824",
     "question": "如图所示，在这种情况下只要后方、对向无来车，可以掉头。",
-    "image": "/uploadFile/yuanBeiTu824.gif",
+    "image": "/images/yuanBeiTu824.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15658,7 +15658,7 @@
   {
     "id": "1825",
     "question": "如图所示，A车具有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu825.gif",
+    "image": "/images/yuanBeiTu825.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15677,7 +15677,7 @@
   {
     "id": "1826",
     "question": "如图所示，A车在此时进入左侧车道是因为进入实线区不得变更车道。",
-    "image": "/uploadFile/yuanBeiTu826.gif",
+    "image": "/images/yuanBeiTu826.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15696,7 +15696,7 @@
   {
     "id": "1827",
     "question": "如图所示，在同向三车道高速公路上行车，车速每小时115公里应在哪条行车道上行驶？",
-    "image": "/uploadFile/yuanBeiTu827.gif",
+    "image": "/images/yuanBeiTu827.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15734,7 +15734,7 @@
   {
     "id": "1829",
     "question": "如图所示，通过有这个标志的路口时应该减速让行。",
-    "image": "/uploadFile/yuanBeiTu829.gif",
+    "image": "/images/yuanBeiTu829.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15753,7 +15753,7 @@
   {
     "id": "1830",
     "question": "如图所示，当A车后方有执行任务的救护车驶来时以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu830.gif",
+    "image": "/images/yuanBeiTu830.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15791,7 +15791,7 @@
   {
     "id": "1832",
     "question": "如图所示，A车具有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu832.gif",
+    "image": "/images/yuanBeiTu832.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15810,7 +15810,7 @@
   {
     "id": "1833",
     "question": "如图所示，在这种情况下通过路口，交替使用远近光灯的目的是什么？",
-    "image": "/uploadFile/yuanBeiTu833.gif",
+    "image": "/images/yuanBeiTu833.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15829,7 +15829,7 @@
   {
     "id": "1834",
     "question": "如图所示，在这种情况下跟车行驶，不能使用远光灯的原因是什么？",
-    "image": "/uploadFile/yuanBeiTu834.gif",
+    "image": "/images/yuanBeiTu834.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15905,7 +15905,7 @@
   {
     "id": "1838",
     "question": "如图所示，在这种情况下驶近路口，车辆可以怎么行驶。",
-    "image": "/uploadFile/yuanBeiTu838.gif",
+    "image": "/images/yuanBeiTu838.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -15943,7 +15943,7 @@
   {
     "id": "1840",
     "question": "如图所示，A车要在前方掉头行驶，可以在此处变换车道，进入左侧车道准备掉头。",
-    "image": "/uploadFile/yuanBeiTu840.gif",
+    "image": "/images/yuanBeiTu840.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15962,7 +15962,7 @@
   {
     "id": "1841",
     "question": "如图所示，通过有这个标志的路口时无需减速。",
-    "image": "/uploadFile/yuanBeiTu841.gif",
+    "image": "/images/yuanBeiTu841.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -15981,7 +15981,7 @@
   {
     "id": "1842",
     "question": "如图所示，在这种情况下，您应该轻踩制动踏板减速。",
-    "image": "/uploadFile/yuanBeiTu842.gif",
+    "image": "/images/yuanBeiTu842.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16000,7 +16000,7 @@
   {
     "id": "1843",
     "question": "如图所示，这个标志设置在有人看守的铁路道口，提示驾驶人距有人看守的铁路道口的距离还有100米。",
-    "image": "/uploadFile/yuanBeiTu843.gif",
+    "image": "/images/yuanBeiTu843.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16019,7 +16019,7 @@
   {
     "id": "1844",
     "question": "如图所示，铁路道口设置这个标志，是提示驾驶人前方路口有单股铁道。",
-    "image": "/uploadFile/yuanBeiTu844.gif",
+    "image": "/images/yuanBeiTu844.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16057,7 +16057,7 @@
   {
     "id": "1846",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu846.gif",
+    "image": "/images/yuanBeiTu846.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16076,7 +16076,7 @@
   {
     "id": "1847",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu847.gif",
+    "image": "/images/yuanBeiTu847.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16095,7 +16095,7 @@
   {
     "id": "1848",
     "question": "这属于哪一类标志？",
-    "image": "/uploadFile/yuanBeiTu848.gif",
+    "image": "/images/yuanBeiTu848.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16114,7 +16114,7 @@
   {
     "id": "1849",
     "question": "这属于哪一种标志？",
-    "image": "/uploadFile/yuanBeiTu849.gif",
+    "image": "/images/yuanBeiTu849.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16133,7 +16133,7 @@
   {
     "id": "1850",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu850.gif",
+    "image": "/images/yuanBeiTu850.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16152,7 +16152,7 @@
   {
     "id": "1851",
     "question": "遇到下列哪个标志，你不需要主动让行？",
-    "image": "/uploadFile/yuanBeiTu851.gif",
+    "image": "/images/yuanBeiTu851.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16171,7 +16171,7 @@
   {
     "id": "1852",
     "question": "以下交通标志中，表示禁止一切车辆和行人通行的是？",
-    "image": "/uploadFile/yuanBeiTu852.gif",
+    "image": "/images/yuanBeiTu852.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16190,7 +16190,7 @@
   {
     "id": "1853",
     "question": "以下交通标志表示的含义是什么",
-    "image": "/uploadFile/yuanBeiTu853.gif",
+    "image": "/images/yuanBeiTu853.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16209,7 +16209,7 @@
   {
     "id": "1854",
     "question": "下列哪个标志禁止一切车辆长时间停放，临时停车不受限制。",
-    "image": "/uploadFile/yuanBeiTu854.gif",
+    "image": "/images/yuanBeiTu854.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16228,7 +16228,7 @@
   {
     "id": "1855",
     "question": "遇到这个标志，您不可以左转，但是可以掉头。",
-    "image": "/uploadFile/yuanBeiTu855.gif",
+    "image": "/images/yuanBeiTu855.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16247,7 +16247,7 @@
   {
     "id": "1856",
     "question": "以下交通标志表示除小客车和货车外，其他车辆可以直行。",
-    "image": "/uploadFile/yuanBeiTu856.gif",
+    "image": "/images/yuanBeiTu856.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16266,7 +16266,7 @@
   {
     "id": "1857",
     "question": "以下哪个标志，表示干路先行？",
-    "image": "/uploadFile/yuanBeiTu857.gif",
+    "image": "/images/yuanBeiTu857.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16285,7 +16285,7 @@
   {
     "id": "1858",
     "question": "以下交通标志表示单行线的是哪一项？",
-    "image": "/uploadFile/yuanBeiTu858.gif",
+    "image": "/images/yuanBeiTu858.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16304,7 +16304,7 @@
   {
     "id": "1859",
     "question": "下列哪个标志，指示车辆直行和右转合用车道？",
-    "image": "/uploadFile/yuanBeiTu859.gif",
+    "image": "/images/yuanBeiTu859.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16323,7 +16323,7 @@
   {
     "id": "1860",
     "question": "下列哪个标志为最低限速标志？",
-    "image": "/uploadFile/yuanBeiTu860.gif",
+    "image": "/images/yuanBeiTu860.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16342,7 +16342,7 @@
   {
     "id": "1861",
     "question": "下列哪个表示一般道路车道数变少？",
-    "image": "/uploadFile/yuanBeiTu861.gif",
+    "image": "/images/yuanBeiTu861.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16361,7 +16361,7 @@
   {
     "id": "1862",
     "question": "当驾驶员看到以下标志时，需减速慢行，是因为什么？",
-    "image": "/uploadFile/yuanBeiTu862.gif",
+    "image": "/images/yuanBeiTu862.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16380,7 +16380,7 @@
   {
     "id": "1863",
     "question": "下列哪个标志提示驾驶人下陡坡？",
-    "image": "/uploadFile/yuanBeiTu863.gif",
+    "image": "/images/yuanBeiTu863.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16399,7 +16399,7 @@
   {
     "id": "1864",
     "question": "下列哪个标志提示驾驶人连续弯路？",
-    "image": "/uploadFile/yuanBeiTu864.gif",
+    "image": "/images/yuanBeiTu864.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16418,7 +16418,7 @@
   {
     "id": "1865",
     "question": "看到这个标志的时候，您应该开启前照灯。",
-    "image": "/uploadFile/yuanBeiTu865.gif",
+    "image": "/images/yuanBeiTu865.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16437,7 +16437,7 @@
   {
     "id": "1866",
     "question": "遇到这个标志时，您应该主动确认您与前车之间的距离。",
-    "image": "/uploadFile/yuanBeiTu866.gif",
+    "image": "/images/yuanBeiTu866.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "2",
@@ -16456,7 +16456,7 @@
   {
     "id": "1867",
     "question": "在下图所示的交通事故中，有关事故责任认定，正确的说法是什么？",
-    "image": "/uploadFile/yuanBeiTu867.gif",
+    "image": "/images/yuanBeiTu867.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -16475,7 +16475,7 @@
   {
     "id": "1868",
     "question": "在图中所示的交通事故中，有关事故责任认定，正确的说法是？",
-    "image": "/uploadFile/yuanBeiTu868.gif",
+    "image": "/images/yuanBeiTu868.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "2",
@@ -20123,7 +20123,7 @@
   {
     "id": "11060",
     "question": "如图所示，当您车速为95km/h时，您可以在哪条车道内行驶？",
-    "image": "/uploadFile/yuanBeiTu1060.gif",
+    "image": "/images/yuanBeiTu1060.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20161,7 +20161,7 @@
   {
     "id": "11062",
     "question": "如图所示，在高速公路同方向三条机动车道最左侧道行驶，应保持什么车速？",
-    "image": "/uploadFile/yuanBeiTu1062.gif",
+    "image": "/images/yuanBeiTu1062.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20237,7 +20237,7 @@
   {
     "id": "11066",
     "question": "如图所示，在高速公路同方向三条机动车道右侧车道行驶，车速不能低于多少？",
-    "image": "/uploadFile/yuanBeiTu1066.gif",
+    "image": "/images/yuanBeiTu1066.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20294,7 +20294,7 @@
   {
     "id": "11069",
     "question": "如图所示，在超车过程中，遇对向有来车时要放弃超车是因为什么？",
-    "image": "/uploadFile/yuanBeiTu1069.gif",
+    "image": "/images/yuanBeiTu1069.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20313,7 +20313,7 @@
   {
     "id": "11070",
     "question": "如图所示，在这种道路上行驶，应在道路中间通行的主要原因是在道路中间通行速度快。",
-    "image": "/uploadFile/yuanBeiTu1070.gif",
+    "image": "/images/yuanBeiTu1070.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20332,7 +20332,7 @@
   {
     "id": "11071",
     "question": "如图所示，当越过停在人行横道前的A车时，B车应减速，准备停车让行。",
-    "image": "/uploadFile/yuanBeiTu1071.gif",
+    "image": "/images/yuanBeiTu1071.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20351,7 +20351,7 @@
   {
     "id": "11072",
     "question": "如图所示，A车在这种情况下应适当减速。",
-    "image": "/uploadFile/yuanBeiTu1072.gif",
+    "image": "/images/yuanBeiTu1072.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20389,7 +20389,7 @@
   {
     "id": "11074",
     "question": "如图所示，驾驶机动车遇到没有行人通过的人行横道时不用减速慢行。",
-    "image": "/uploadFile/yuanBeiTu1074.gif",
+    "image": "/images/yuanBeiTu1074.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20427,7 +20427,7 @@
   {
     "id": "11076",
     "question": "如图所示，在高速公路同方向两条机动车左侧车道行驶，应保持什么车速？",
-    "image": "/uploadFile/yuanBeiTu1076.gif",
+    "image": "/images/yuanBeiTu1076.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20446,7 +20446,7 @@
   {
     "id": "11077",
     "question": "如图所示，铁路道口禁止掉头的原因是什么？",
-    "image": "/uploadFile/yuanBeiTu1077.gif",
+    "image": "/images/yuanBeiTu1077.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20465,7 +20465,7 @@
   {
     "id": "11078",
     "question": "如图所示，在这种情况下通过交叉路口时，不得超车的原因是什么？",
-    "image": "/uploadFile/yuanBeiTu1078.gif",
+    "image": "/images/yuanBeiTu1078.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20484,7 +20484,7 @@
   {
     "id": "11079",
     "question": "如图所示，在这种情况下只要后方没有来车，可以倒车。",
-    "image": "/uploadFile/yuanBeiTu1079.gif",
+    "image": "/images/yuanBeiTu1079.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20503,7 +20503,7 @@
   {
     "id": "11080",
     "question": "如图所示，在这种雾天情况下，通过交叉路口时必须鸣喇叭，加速通过，以免造成交通拥堵。",
-    "image": "/uploadFile/yuanBeiTu1080.gif",
+    "image": "/images/yuanBeiTu1080.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20522,7 +20522,7 @@
   {
     "id": "11081",
     "question": "如图所示，在高速公路最左侧车道行驶，想驶离高速公路，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1081.gif",
+    "image": "/images/yuanBeiTu1081.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20541,7 +20541,7 @@
   {
     "id": "11082",
     "question": "如图所示，机动车遇行人正在通过人行横道时，要停车让行，是因为行人享有优先通行权。",
-    "image": "/uploadFile/yuanBeiTu1082.gif",
+    "image": "/images/yuanBeiTu1082.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20560,7 +20560,7 @@
   {
     "id": "11083",
     "question": "如图所示，在这种情况下准备进入环形路口时，为了保证车后车流的通畅，应加速超越红车进入路口。",
-    "image": "/uploadFile/yuanBeiTu1083.gif",
+    "image": "/images/yuanBeiTu1083.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20598,7 +20598,7 @@
   {
     "id": "11085",
     "question": "如图所示，在这种情形下，对方车辆具有先行权。",
-    "image": "/uploadFile/yuanBeiTu1085.gif",
+    "image": "/images/yuanBeiTu1085.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20617,7 +20617,7 @@
   {
     "id": "11086",
     "question": "如图所示，在高速公路同方向三条机动车道中间车道行驶，车速不能低于多少？",
-    "image": "/uploadFile/yuanBeiTu1086.gif",
+    "image": "/images/yuanBeiTu1086.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20655,7 +20655,7 @@
   {
     "id": "11088",
     "question": "如图所示，当您超越右侧车辆时，应该尽快超越，减少并行时间。",
-    "image": "/uploadFile/yuanBeiTu1088.gif",
+    "image": "/images/yuanBeiTu1088.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20674,7 +20674,7 @@
   {
     "id": "11089",
     "question": "如图所示，当车辆驶近这样的路口时，以下说法错误的是什么？",
-    "image": "/uploadFile/yuanBeiTu1089.gif",
+    "image": "/images/yuanBeiTu1089.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20693,7 +20693,7 @@
   {
     "id": "11090",
     "question": "如图所示，在这种情况下不能超车的原因是什么？",
-    "image": "/uploadFile/yuanBeiTu1090.gif",
+    "image": "/images/yuanBeiTu1090.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20731,7 +20731,7 @@
   {
     "id": "11092",
     "question": "如图所示，在这种情况下，驾驶机动车要停车让行。",
-    "image": "/uploadFile/yuanBeiTu1092.gif",
+    "image": "/images/yuanBeiTu1092.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20750,7 +20750,7 @@
   {
     "id": "11093",
     "question": "如图所示，直行车辆遇到前方路口堵塞，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1093.gif",
+    "image": "/images/yuanBeiTu1093.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20769,7 +20769,7 @@
   {
     "id": "11094",
     "question": "如图所示，机动车在这种道路上行驶，在道路中间通行的原因是什么？",
-    "image": "/uploadFile/yuanBeiTu1094.gif",
+    "image": "/images/yuanBeiTu1094.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20826,7 +20826,7 @@
   {
     "id": "11097",
     "question": "如图所示，在这种情况下通过前方路口，应该怎么行驶？",
-    "image": "/uploadFile/yuanBeiTu1097.gif",
+    "image": "/images/yuanBeiTu1097.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -20902,7 +20902,7 @@
   {
     "id": "11101",
     "question": "如图所示，驾驶机动车遇到这种情况能够加速通过，是因为人行横道没有行人通过。",
-    "image": "/uploadFile/yuanBeiTu1101.gif",
+    "image": "/images/yuanBeiTu1101.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20978,7 +20978,7 @@
   {
     "id": "11105",
     "question": "如图所示，在前方路口可以掉头。",
-    "image": "/uploadFile/yuanBeiTu1105.gif",
+    "image": "/images/yuanBeiTu1105.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -20997,7 +20997,7 @@
   {
     "id": "11106",
     "question": "如图所示，在这种情况下遇右侧车辆变更车道，应减速保持间距，注意避让。",
-    "image": "/uploadFile/yuanBeiTu1106.gif",
+    "image": "/images/yuanBeiTu1106.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21016,7 +21016,7 @@
   {
     "id": "11107",
     "question": "如图所示，以下哪种情况可以超车。",
-    "image": "/uploadFile/yuanBeiTu1107.gif",
+    "image": "/images/yuanBeiTu1107.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -21073,7 +21073,7 @@
   {
     "id": "11110",
     "question": "如图所示，机动车在这样的城市道路上行驶，最高的行驶速度不得超过50公里/小时。",
-    "image": "/uploadFile/yuanBeiTu1110.gif",
+    "image": "/images/yuanBeiTu1110.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21111,7 +21111,7 @@
   {
     "id": "11112",
     "question": "如图所示，在这种情况下，会车时必须减速靠右通过。",
-    "image": "/uploadFile/yuanBeiTu1112.gif",
+    "image": "/images/yuanBeiTu1112.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21206,7 +21206,7 @@
   {
     "id": "11117",
     "question": "如图所示，车辆在拥挤路段排队行驶时，遇到其他车辆强行穿插行驶，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1117.gif",
+    "image": "/images/yuanBeiTu1117.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -21225,7 +21225,7 @@
   {
     "id": "11118",
     "question": "如图所示，在这种情况下，A车可以向左变更车道。",
-    "image": "/uploadFile/yuanBeiTu1118.gif",
+    "image": "/images/yuanBeiTu1118.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21244,7 +21244,7 @@
   {
     "id": "11119",
     "question": "如图所示，驾驶机动车接打电话容易导致发生交通事故。",
-    "image": "/uploadFile/yuanBeiTu1119.gif",
+    "image": "/images/yuanBeiTu1119.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21301,7 +21301,7 @@
   {
     "id": "11122",
     "question": "如图所示，A车货物掉落，导致B车与掉落货物发生碰撞，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1122.gif",
+    "image": "/images/yuanBeiTu1122.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -21358,7 +21358,7 @@
   {
     "id": "11125",
     "question": "如图所示，驾驶机动车遇到这种情况时，A车应当注意避让。",
-    "image": "/uploadFile/yuanBeiTu1125.gif",
+    "image": "/images/yuanBeiTu1125.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21377,7 +21377,7 @@
   {
     "id": "11126",
     "question": "如图所示，驾驶过程中遇到这种情况时，A车可以长鸣喇叭提醒道路养护车辆暂停喷水。",
-    "image": "/uploadFile/yuanBeiTu1126.gif",
+    "image": "/images/yuanBeiTu1126.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21586,7 +21586,7 @@
   {
     "id": "11137",
     "question": "如图所示，在这起交通事故中，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1137.gif",
+    "image": "/images/yuanBeiTu1137.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -21624,7 +21624,7 @@
   {
     "id": "11139",
     "question": "如图所示，驾驶机动车行经该路段时，应减速慢行，避免因眩目导致的交通事故。",
-    "image": "/uploadFile/yuanBeiTu1139.gif",
+    "image": "/images/yuanBeiTu1139.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21795,7 +21795,7 @@
   {
     "id": "11148",
     "question": "如图所示，驾驶机动车时，前风窗玻璃处悬挂放置干扰视线的物品是错误的。",
-    "image": "/uploadFile/yuanBeiTu1148.gif",
+    "image": "/images/yuanBeiTu1148.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -21833,7 +21833,7 @@
   {
     "id": "11150",
     "question": "如图所示，在这起交通事故中，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1150.gif",
+    "image": "/images/yuanBeiTu1150.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "3",
@@ -21852,7 +21852,7 @@
   {
     "id": "11151",
     "question": "如图所示，在环岛交叉路口发生的交通事故中，应由A车负全部责任。",
-    "image": "/uploadFile/yuanBeiTu1151.gif",
+    "image": "/images/yuanBeiTu1151.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "3",
@@ -22270,7 +22270,7 @@
   {
     "id": "11173",
     "question": "这个仪表是何含义？",
-    "image": "/uploadFile/yuanBeiTu1173.gif",
+    "image": "/images/yuanBeiTu1173.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22289,7 +22289,7 @@
   {
     "id": "11174",
     "question": "这个仪表是何含义？",
-    "image": "/uploadFile/yuanBeiTu1174.gif",
+    "image": "/images/yuanBeiTu1174.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22308,7 +22308,7 @@
   {
     "id": "11175",
     "question": "这个仪表是何含义？",
-    "image": "/uploadFile/yuanBeiTu1175.gif",
+    "image": "/images/yuanBeiTu1175.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22327,7 +22327,7 @@
   {
     "id": "11176",
     "question": "这个仪表是何含义？",
-    "image": "/uploadFile/yuanBeiTu1176.gif",
+    "image": "/images/yuanBeiTu1176.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22346,7 +22346,7 @@
   {
     "id": "11177",
     "question": "仪表显示当前车速是20公里/小时。",
-    "image": "/uploadFile/yuanBeiTu1177.gif",
+    "image": "/images/yuanBeiTu1177.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22365,7 +22365,7 @@
   {
     "id": "11178",
     "question": "仪表显示当前发动机转速是6000转/分钟。",
-    "image": "/uploadFile/yuanBeiTu1178.gif",
+    "image": "/images/yuanBeiTu1178.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22384,7 +22384,7 @@
   {
     "id": "11179",
     "question": "仪表显示当前冷却液的温度是90℃。",
-    "image": "/uploadFile/yuanBeiTu1179.gif",
+    "image": "/images/yuanBeiTu1179.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22403,7 +22403,7 @@
   {
     "id": "11180",
     "question": "仪表显示油箱内存油量已在警告线以内。",
-    "image": "/uploadFile/yuanBeiTu1180.gif",
+    "image": "/images/yuanBeiTu1180.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22422,7 +22422,7 @@
   {
     "id": "11181",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1181.gif",
+    "image": "/images/yuanBeiTu1181.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22441,7 +22441,7 @@
   {
     "id": "11182",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1182.gif",
+    "image": "/images/yuanBeiTu1182.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22460,7 +22460,7 @@
   {
     "id": "11183",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1183.gif",
+    "image": "/images/yuanBeiTu1183.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22479,7 +22479,7 @@
   {
     "id": "11184",
     "question": "打开前雾灯开关，（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1184.gif",
+    "image": "/images/yuanBeiTu1184.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22498,7 +22498,7 @@
   {
     "id": "11185",
     "question": "打开后雾灯开关，（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1185.gif",
+    "image": "/images/yuanBeiTu1185.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22517,7 +22517,7 @@
   {
     "id": "11186",
     "question": "打开位置灯开关，（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1186.gif",
+    "image": "/images/yuanBeiTu1186.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22536,7 +22536,7 @@
   {
     "id": "11187",
     "question": "发动机起动后仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1187.gif",
+    "image": "/images/yuanBeiTu1187.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22555,7 +22555,7 @@
   {
     "id": "11188",
     "question": "机动车仪表板上（如图所示）亮表示发动机可能机油量不足。",
-    "image": "/uploadFile/yuanBeiTu1188.gif",
+    "image": "/images/yuanBeiTu1188.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22574,7 +22574,7 @@
   {
     "id": "11189",
     "question": "机动车仪表板上（如图所示）亮表示发动机可能机油压力过高。",
-    "image": "/uploadFile/yuanBeiTu1189.gif",
+    "image": "/images/yuanBeiTu1189.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22593,7 +22593,7 @@
   {
     "id": "11190",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1190.gif",
+    "image": "/images/yuanBeiTu1190.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22612,7 +22612,7 @@
   {
     "id": "11191",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1191.gif",
+    "image": "/images/yuanBeiTu1191.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22631,7 +22631,7 @@
   {
     "id": "11192",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1192.gif",
+    "image": "/images/yuanBeiTu1192.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22650,7 +22650,7 @@
   {
     "id": "11193",
     "question": "机动车仪表板上（如图所示）亮，表示驻车制动器操纵杆可能没松到底。",
-    "image": "/uploadFile/yuanBeiTu1193.gif",
+    "image": "/images/yuanBeiTu1193.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22669,7 +22669,7 @@
   {
     "id": "11194",
     "question": "机动车仪表板上（如图所示）亮，表示行车制动系统可能出现故障。",
-    "image": "/uploadFile/yuanBeiTu1194.gif",
+    "image": "/images/yuanBeiTu1194.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22688,7 +22688,7 @@
   {
     "id": "11195",
     "question": "机动车仪表板上（如图所示）亮时，不影响正常行驶。",
-    "image": "/uploadFile/yuanBeiTu1195.gif",
+    "image": "/images/yuanBeiTu1195.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22707,7 +22707,7 @@
   {
     "id": "11196",
     "question": "机动车仪表板上（如图所示）亮时，防抱死制动系统处于打开状态。",
-    "image": "/uploadFile/yuanBeiTu1196.gif",
+    "image": "/images/yuanBeiTu1196.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22726,7 +22726,7 @@
   {
     "id": "11197",
     "question": "机动车仪表板上（如图所示）亮时，表示驻车制动器处于制动状态。",
-    "image": "/uploadFile/yuanBeiTu1197.gif",
+    "image": "/images/yuanBeiTu1197.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22745,7 +22745,7 @@
   {
     "id": "11198",
     "question": "发动机起动后仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1198.gif",
+    "image": "/images/yuanBeiTu1198.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22764,7 +22764,7 @@
   {
     "id": "11199",
     "question": "机动车仪表板上（如图所示）亮时，提醒发动机需要补充机油。",
-    "image": "/uploadFile/yuanBeiTu1199.gif",
+    "image": "/images/yuanBeiTu1199.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22783,7 +22783,7 @@
   {
     "id": "11200",
     "question": "行车中仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1200.gif",
+    "image": "/images/yuanBeiTu1200.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22802,7 +22802,7 @@
   {
     "id": "11201",
     "question": "机动车仪表板上（如图所示）亮时，提醒发动机冷却液可能不足。",
-    "image": "/uploadFile/yuanBeiTu1201.gif",
+    "image": "/images/yuanBeiTu1201.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22821,7 +22821,7 @@
   {
     "id": "11202",
     "question": "机动车仪表板上（如图所示）亮时提醒发动机需要加注机油。",
-    "image": "/uploadFile/yuanBeiTu1202.gif",
+    "image": "/images/yuanBeiTu1202.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22840,7 +22840,7 @@
   {
     "id": "11203",
     "question": "机动车仪表板上（如图所示）亮时表示什么？",
-    "image": "/uploadFile/yuanBeiTu1203.gif",
+    "image": "/images/yuanBeiTu1203.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22859,7 +22859,7 @@
   {
     "id": "11204",
     "question": "机动车仪表板上（如图所示）亮时表示什么？",
-    "image": "/uploadFile/yuanBeiTu1204.gif",
+    "image": "/images/yuanBeiTu1204.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22878,7 +22878,7 @@
   {
     "id": "11205",
     "question": "开启前照灯远光时仪表板上（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1205.gif",
+    "image": "/images/yuanBeiTu1205.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22897,7 +22897,7 @@
   {
     "id": "11206",
     "question": "开启前照灯近光时仪表板上（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1206.gif",
+    "image": "/images/yuanBeiTu1206.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22916,7 +22916,7 @@
   {
     "id": "11207",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1207.gif",
+    "image": "/images/yuanBeiTu1207.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -22935,7 +22935,7 @@
   {
     "id": "11208",
     "question": "机动车仪表板上（如图所示）亮时，提醒驾驶人座椅没调整好。",
-    "image": "/uploadFile/yuanBeiTu1208.gif",
+    "image": "/images/yuanBeiTu1208.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22954,7 +22954,7 @@
   {
     "id": "11209",
     "question": "机动车仪表板上（如图所示）亮时，提醒驾驶人安全带插头未插入锁扣。",
-    "image": "/uploadFile/yuanBeiTu1209.gif",
+    "image": "/images/yuanBeiTu1209.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -22992,7 +22992,7 @@
   {
     "id": "11211",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1211.gif",
+    "image": "/images/yuanBeiTu1211.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23011,7 +23011,7 @@
   {
     "id": "11212",
     "question": "机动车发生故障时，（如图所示）闪烁。",
-    "image": "/uploadFile/yuanBeiTu1212.gif",
+    "image": "/images/yuanBeiTu1212.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23030,7 +23030,7 @@
   {
     "id": "11213",
     "question": "开启危险报警闪光灯时，（如图所示）闪烁。",
-    "image": "/uploadFile/yuanBeiTu1213.gif",
+    "image": "/images/yuanBeiTu1213.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23049,7 +23049,7 @@
   {
     "id": "11214",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1214.gif",
+    "image": "/images/yuanBeiTu1214.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23068,7 +23068,7 @@
   {
     "id": "11215",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1215.gif",
+    "image": "/images/yuanBeiTu1215.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23087,7 +23087,7 @@
   {
     "id": "11216",
     "question": "打开左转向灯开关，（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1216.gif",
+    "image": "/images/yuanBeiTu1216.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23106,7 +23106,7 @@
   {
     "id": "11217",
     "question": "打开右转向灯开关，（如图所示）亮起。",
-    "image": "/uploadFile/yuanBeiTu1217.gif",
+    "image": "/images/yuanBeiTu1217.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23125,7 +23125,7 @@
   {
     "id": "11218",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1218.gif",
+    "image": "/images/yuanBeiTu1218.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23144,7 +23144,7 @@
   {
     "id": "11219",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1219.gif",
+    "image": "/images/yuanBeiTu1219.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23163,7 +23163,7 @@
   {
     "id": "11220",
     "question": "机动车仪表板上（如图所示）这个符号表示什么？",
-    "image": "/uploadFile/yuanBeiTu1220.gif",
+    "image": "/images/yuanBeiTu1220.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23182,7 +23182,7 @@
   {
     "id": "11221",
     "question": "机动车仪表板上（如图所示）这个符号表示什么？",
-    "image": "/uploadFile/yuanBeiTu1221.gif",
+    "image": "/images/yuanBeiTu1221.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23201,7 +23201,7 @@
   {
     "id": "11222",
     "question": "机动车仪表板上（如图所示）一直亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1222.gif",
+    "image": "/images/yuanBeiTu1222.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23220,7 +23220,7 @@
   {
     "id": "11223",
     "question": "机动车仪表板上（如图所示）这个符号表示什么？",
-    "image": "/uploadFile/yuanBeiTu1223.gif",
+    "image": "/images/yuanBeiTu1223.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23239,7 +23239,7 @@
   {
     "id": "11224",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1224.gif",
+    "image": "/images/yuanBeiTu1224.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23258,7 +23258,7 @@
   {
     "id": "11225",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1225.gif",
+    "image": "/images/yuanBeiTu1225.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23277,7 +23277,7 @@
   {
     "id": "11226",
     "question": "机动车仪表板上（如图所示）这个符号表示什么？",
-    "image": "/uploadFile/yuanBeiTu1226.gif",
+    "image": "/images/yuanBeiTu1226.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23296,7 +23296,7 @@
   {
     "id": "11227",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1227.gif",
+    "image": "/images/yuanBeiTu1227.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23315,7 +23315,7 @@
   {
     "id": "11228",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1228.gif",
+    "image": "/images/yuanBeiTu1228.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23334,7 +23334,7 @@
   {
     "id": "11229",
     "question": "（如图所示）这个符号的开关控制什么装置？",
-    "image": "/uploadFile/yuanBeiTu1229.gif",
+    "image": "/images/yuanBeiTu1229.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23353,7 +23353,7 @@
   {
     "id": "11230",
     "question": "（如图所示）这个符号的开关控制什么装置？",
-    "image": "/uploadFile/yuanBeiTu1230.gif",
+    "image": "/images/yuanBeiTu1230.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23372,7 +23372,7 @@
   {
     "id": "11231",
     "question": "（如图所示）这个符号的开关控制什么装置？",
-    "image": "/uploadFile/yuanBeiTu1231.gif",
+    "image": "/images/yuanBeiTu1231.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23391,7 +23391,7 @@
   {
     "id": "11232",
     "question": "（如图所示）这个符号的开关控制什么装置？",
-    "image": "/uploadFile/yuanBeiTu1232.gif",
+    "image": "/images/yuanBeiTu1232.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23410,7 +23410,7 @@
   {
     "id": "11233",
     "question": "（如图所示）这个符号的开关控制什么装置？",
-    "image": "/uploadFile/yuanBeiTu1233.gif",
+    "image": "/images/yuanBeiTu1233.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23429,7 +23429,7 @@
   {
     "id": "11234",
     "question": "机动车仪表板上（如图所示）亮表示什么？",
-    "image": "/uploadFile/yuanBeiTu1234.gif",
+    "image": "/images/yuanBeiTu1234.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23448,7 +23448,7 @@
   {
     "id": "11235",
     "question": "机动车仪表板上（如图所示）亮，提示发电机向蓄电池充电。",
-    "image": "/uploadFile/yuanBeiTu1235.gif",
+    "image": "/images/yuanBeiTu1235.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23467,7 +23467,7 @@
   {
     "id": "11236",
     "question": "机动车仪表板上（如图所示)亮，提示两侧车门未关闭。",
-    "image": "/uploadFile/yuanBeiTu1236.gif",
+    "image": "/images/yuanBeiTu1236.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23486,7 +23486,7 @@
   {
     "id": "11237",
     "question": "机动车仪表板上（如图所示）亮，提示左侧车门未关闭。",
-    "image": "/uploadFile/yuanBeiTu1237.gif",
+    "image": "/images/yuanBeiTu1237.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23505,7 +23505,7 @@
   {
     "id": "11238",
     "question": "机动车仪表板上（如图所示）亮，提示右侧车门未关闭。",
-    "image": "/uploadFile/yuanBeiTu1238.gif",
+    "image": "/images/yuanBeiTu1238.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23524,7 +23524,7 @@
   {
     "id": "11239",
     "question": "机动车仪表板上（如图所示）亮，提示行李舱开启。",
-    "image": "/uploadFile/yuanBeiTu1239.gif",
+    "image": "/images/yuanBeiTu1239.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23543,7 +23543,7 @@
   {
     "id": "11240",
     "question": "机动车仪表板上（如图所示）亮，提示发动机舱开启。",
-    "image": "/uploadFile/yuanBeiTu1240.gif",
+    "image": "/images/yuanBeiTu1240.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23562,7 +23562,7 @@
   {
     "id": "11241",
     "question": "机动车仪表板上（如图所示）一直亮，表示安全气囊处于工作状态。",
-    "image": "/uploadFile/yuanBeiTu1241.gif",
+    "image": "/images/yuanBeiTu1241.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23581,7 +23581,7 @@
   {
     "id": "11242",
     "question": "机动车仪表板上（如图所示）亮表示启用地板及前风窗玻璃吹风。",
-    "image": "/uploadFile/yuanBeiTu1242.gif",
+    "image": "/images/yuanBeiTu1242.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23600,7 +23600,7 @@
   {
     "id": "11243",
     "question": "机动车仪表板上（如图所示）一直亮，表示发动机控制系统故障。",
-    "image": "/uploadFile/yuanBeiTu1243.gif",
+    "image": "/images/yuanBeiTu1243.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23619,7 +23619,7 @@
   {
     "id": "11244",
     "question": "这种握转向盘的动作是正确的。",
-    "image": "/uploadFile/yuanBeiTu1244.gif",
+    "image": "/images/yuanBeiTu1244.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23638,7 +23638,7 @@
   {
     "id": "11245",
     "question": "这是什么踏板？",
-    "image": "/uploadFile/yuanBeiTu1245.gif",
+    "image": "/images/yuanBeiTu1245.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23657,7 +23657,7 @@
   {
     "id": "11246",
     "question": "这是什么踏板？",
-    "image": "/uploadFile/yuanBeiTu1246.gif",
+    "image": "/images/yuanBeiTu1246.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23676,7 +23676,7 @@
   {
     "id": "11247",
     "question": "这是什么踏板？",
-    "image": "/uploadFile/yuanBeiTu1247.gif",
+    "image": "/images/yuanBeiTu1247.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23695,7 +23695,7 @@
   {
     "id": "11248",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1248.gif",
+    "image": "/images/yuanBeiTu1248.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23714,7 +23714,7 @@
   {
     "id": "11249",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1249.gif",
+    "image": "/images/yuanBeiTu1249.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23733,7 +23733,7 @@
   {
     "id": "11250",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1250.gif",
+    "image": "/images/yuanBeiTu1250.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23752,7 +23752,7 @@
   {
     "id": "11251",
     "question": "将点火开关转到ACC位置起动机工作。",
-    "image": "/uploadFile/yuanBeiTu1251.gif",
+    "image": "/images/yuanBeiTu1251.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23771,7 +23771,7 @@
   {
     "id": "11252",
     "question": "点火开关在ON位置，车用电器不能使用。",
-    "image": "/uploadFile/yuanBeiTu1252.gif",
+    "image": "/images/yuanBeiTu1252.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23790,7 +23790,7 @@
   {
     "id": "11253",
     "question": "点火开关在LOCK位置拔出钥匙转向盘会锁住。",
-    "image": "/uploadFile/yuanBeiTu1253.gif",
+    "image": "/images/yuanBeiTu1253.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23809,7 +23809,7 @@
   {
     "id": "11254",
     "question": "点火开关在START位置起动机起动。",
-    "image": "/uploadFile/yuanBeiTu1254.gif",
+    "image": "/images/yuanBeiTu1254.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23828,7 +23828,7 @@
   {
     "id": "11255",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1255.gif",
+    "image": "/images/yuanBeiTu1255.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23847,7 +23847,7 @@
   {
     "id": "11256",
     "question": "提拉这个开关控制机动车哪个部位？",
-    "image": "/uploadFile/yuanBeiTu1256.gif",
+    "image": "/images/yuanBeiTu1256.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23866,7 +23866,7 @@
   {
     "id": "11257",
     "question": "旋转开关这一档控制机动车哪个部位？",
-    "image": "/uploadFile/yuanBeiTu1257.gif",
+    "image": "/images/yuanBeiTu1257.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23885,7 +23885,7 @@
   {
     "id": "11258",
     "question": "将转向灯开关向上提，左转向灯亮。",
-    "image": "/uploadFile/yuanBeiTu1258.gif",
+    "image": "/images/yuanBeiTu1258.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23904,7 +23904,7 @@
   {
     "id": "11259",
     "question": "将转向灯开关向下拉，右转向灯亮。",
-    "image": "/uploadFile/yuanBeiTu1259.gif",
+    "image": "/images/yuanBeiTu1259.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23923,7 +23923,7 @@
   {
     "id": "11260",
     "question": "灯光开关旋转到这个位置时，全车灯光点亮。",
-    "image": "/uploadFile/yuanBeiTu1260.gif",
+    "image": "/images/yuanBeiTu1260.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23942,7 +23942,7 @@
   {
     "id": "11261",
     "question": "灯光开关在该位置时，前雾灯点亮。",
-    "image": "/uploadFile/yuanBeiTu1261.gif",
+    "image": "/images/yuanBeiTu1261.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23961,7 +23961,7 @@
   {
     "id": "11262",
     "question": "灯光开关在该位置时，后雾灯点亮。",
-    "image": "/uploadFile/yuanBeiTu1262.gif",
+    "image": "/images/yuanBeiTu1262.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -23980,7 +23980,7 @@
   {
     "id": "11263",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1263.gif",
+    "image": "/images/yuanBeiTu1263.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -23999,7 +23999,7 @@
   {
     "id": "11264",
     "question": "这是什么操纵装置？",
-    "image": "/uploadFile/yuanBeiTu1264.gif",
+    "image": "/images/yuanBeiTu1264.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24018,7 +24018,7 @@
   {
     "id": "11265",
     "question": "这个开关控制机动车哪个部位？",
-    "image": "/uploadFile/yuanBeiTu1265.gif",
+    "image": "/images/yuanBeiTu1265.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24037,7 +24037,7 @@
   {
     "id": "11266",
     "question": "按下这个开关，后风窗玻璃除霜器开始工作。",
-    "image": "/uploadFile/yuanBeiTu1266.gif",
+    "image": "/images/yuanBeiTu1266.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -24056,7 +24056,7 @@
   {
     "id": "11267",
     "question": "上下扳动这个开关前风窗玻璃刮水器开始工作。",
-    "image": "/uploadFile/yuanBeiTu1267.gif",
+    "image": "/images/yuanBeiTu1267.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -24170,7 +24170,7 @@
   {
     "id": "11273",
     "question": "机动车在紧急制动时ABS系统会起到什么作用？",
-    "image": "/uploadFile/yuanBeiTu1273.gif",
+    "image": "/images/yuanBeiTu1273.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24322,7 +24322,7 @@
   {
     "id": "11281",
     "question": "正面安全气囊与什么配合才能充分发挥保护作用？",
-    "image": "/uploadFile/yuanBeiTu1281.gif",
+    "image": "/images/yuanBeiTu1281.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24341,7 +24341,7 @@
   {
     "id": "11282",
     "question": "下列哪个指示灯亮表示车辆在使用近光灯。",
-    "image": "/uploadFile/yuanBeiTu1282.gif",
+    "image": "/images/yuanBeiTu1282.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24360,7 +24360,7 @@
   {
     "id": "11283",
     "question": "下列哪个指示灯亮表示车辆在使用远光灯。",
-    "image": "/uploadFile/yuanBeiTu1283.gif",
+    "image": "/images/yuanBeiTu1283.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24417,7 +24417,7 @@
   {
     "id": "11286",
     "question": "行驶至这种上坡路段时，以下做法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1286.gif",
+    "image": "/images/yuanBeiTu1286.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24493,7 +24493,7 @@
   {
     "id": "11290",
     "question": "夜间行驶，与对向车道车辆交会时，以下做法正确的是？",
-    "image": "/uploadFile/yuanBeiTu1290.gif",
+    "image": "/images/yuanBeiTu1290.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24512,7 +24512,7 @@
   {
     "id": "11291",
     "question": "以下安全带系法正确的是？",
-    "image": "/uploadFile/yuanBeiTu1291.gif",
+    "image": "/images/yuanBeiTu1291.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24531,7 +24531,7 @@
   {
     "id": "11292",
     "question": "以下哪个仪表表示发动机转速表？",
-    "image": "/uploadFile/yuanBeiTu1292.gif",
+    "image": "/images/yuanBeiTu1292.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24550,7 +24550,7 @@
   {
     "id": "11293",
     "question": "以下哪个仪表表示速度和里程表？",
-    "image": "/uploadFile/yuanBeiTu1293.gif",
+    "image": "/images/yuanBeiTu1293.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24569,7 +24569,7 @@
   {
     "id": "11294",
     "question": "以下哪个仪表表示水温表？",
-    "image": "/uploadFile/yuanBeiTu1294.gif",
+    "image": "/images/yuanBeiTu1294.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24588,7 +24588,7 @@
   {
     "id": "11295",
     "question": "以下哪个仪表表示燃油表？",
-    "image": "/uploadFile/yuanBeiTu1295.gif",
+    "image": "/images/yuanBeiTu1295.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24607,7 +24607,7 @@
   {
     "id": "11296",
     "question": "图中哪个报警灯亮，提示充电电路异常或故障？",
-    "image": "/uploadFile/yuanBeiTu1296.gif",
+    "image": "/images/yuanBeiTu1296.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24626,7 +24626,7 @@
   {
     "id": "11297",
     "question": "哪个报警灯亮，提示发动机控制系统异常或故障？",
-    "image": "/uploadFile/yuanBeiTu1297.gif",
+    "image": "/images/yuanBeiTu1297.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24645,7 +24645,7 @@
   {
     "id": "11298",
     "question": "为提示车辆和行人注意，雾天必须开启哪个灯？",
-    "image": "/uploadFile/yuanBeiTu1298.gif",
+    "image": "/images/yuanBeiTu1298.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24664,7 +24664,7 @@
   {
     "id": "11299",
     "question": "图中左侧白色轿车，在这种情况下为了保证安全，应适当降低车速。",
-    "image": "/uploadFile/yuanBeiTu1299.gif",
+    "image": "/images/yuanBeiTu1299.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "4",
@@ -24683,7 +24683,7 @@
   {
     "id": "11300",
     "question": "以下哪个指示灯亮时，表示发动机机油压力过低？",
-    "image": "/uploadFile/yuanBeiTu1300.gif",
+    "image": "/images/yuanBeiTu1300.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24721,7 +24721,7 @@
   {
     "id": "11302",
     "question": "以下哪个指示灯亮时，表示防抱死制动系统出现故障？",
-    "image": "/uploadFile/yuanBeiTu1302.gif",
+    "image": "/images/yuanBeiTu1302.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24740,7 +24740,7 @@
   {
     "id": "11303",
     "question": "行车中下列哪个灯亮，提示驾驶人车辆制动系统出现异常?",
-    "image": "/uploadFile/yuanBeiTu1303.gif",
+    "image": "/images/yuanBeiTu1303.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24778,7 +24778,7 @@
   {
     "id": "11305",
     "question": "以下哪个指示灯亮时，表示油箱内燃油已到最低液面？",
-    "image": "/uploadFile/yuanBeiTu1305.gif",
+    "image": "/images/yuanBeiTu1305.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24816,7 +24816,7 @@
   {
     "id": "11307",
     "question": "以下哪个指示灯亮时，表示发动机温度过高？",
-    "image": "/uploadFile/yuanBeiTu1307.gif",
+    "image": "/images/yuanBeiTu1307.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24854,7 +24854,7 @@
   {
     "id": "11309",
     "question": "以下哪个指示灯亮时，提醒驾驶人安全带插头未插入锁扣？",
-    "image": "/uploadFile/yuanBeiTu1309.gif",
+    "image": "/images/yuanBeiTu1309.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24873,7 +24873,7 @@
   {
     "id": "11310",
     "question": "车辆因故障等原因需被牵引时，以下说法正确的是什么？",
-    "image": "/uploadFile/yuanBeiTu1310.gif",
+    "image": "/images/yuanBeiTu1310.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -24892,7 +24892,7 @@
   {
     "id": "11311",
     "question": "车辆发生意外，要及时打开哪个灯?",
-    "image": "/uploadFile/yuanBeiTu1311.gif",
+    "image": "/images/yuanBeiTu1311.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "4",
@@ -25329,7 +25329,7 @@
   {
     "id": "11334",
     "question": "图中标志的含义是什么？",
-    "image": "/uploadFile/yuanBeiTu1334.gif",
+    "image": "/images/yuanBeiTu1334.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "5",
@@ -25348,7 +25348,7 @@
   {
     "id": "11335",
     "question": "图中标志的含义是什么？",
-    "image": "/uploadFile/yuanBeiTu1335.gif",
+    "image": "/images/yuanBeiTu1335.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "5",
@@ -25367,7 +25367,7 @@
   {
     "id": "11336",
     "question": "图中标志的含义是什么？",
-    "image": "/uploadFile/yuanBeiTu1336.gif",
+    "image": "/images/yuanBeiTu1336.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "5",
@@ -25386,7 +25386,7 @@
   {
     "id": "11337",
     "question": "图中标志的含义是什么？",
-    "image": "/uploadFile/yuanBeiTu1337.gif",
+    "image": "/images/yuanBeiTu1337.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "5",
@@ -25652,7 +25652,7 @@
   {
     "id": "11351",
     "question": "图中标志的含义是限制轴重。",
-    "image": "/uploadFile/yuanBeiTu1351.gif",
+    "image": "/images/yuanBeiTu1351.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "5",
@@ -25671,7 +25671,7 @@
   {
     "id": "11352",
     "question": "图中标志设在禁止运输危险品车辆驶入路段的入口处。",
-    "image": "/uploadFile/yuanBeiTu1352.gif",
+    "image": "/images/yuanBeiTu1352.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "5",
@@ -27077,7 +27077,7 @@
   {
     "id": "11426",
     "question": "图中标志的含义是禁止小型客车通行。",
-    "image": "/uploadFile/yuanBeiTu1426.gif",
+    "image": "/images/yuanBeiTu1426.gif",
     "type": "2",
     "subject": "1",
     "chapterId": "6",
@@ -31181,7 +31181,7 @@
   {
     "id": "11642",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11642.gif",
+    "image": "/images/yuanBeiTu11642.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31200,7 +31200,7 @@
   {
     "id": "11643",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11643.gif",
+    "image": "/images/yuanBeiTu11643.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31219,7 +31219,7 @@
   {
     "id": "11644",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11644.gif",
+    "image": "/images/yuanBeiTu11644.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31238,7 +31238,7 @@
   {
     "id": "11645",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11645.gif",
+    "image": "/images/yuanBeiTu11645.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31257,7 +31257,7 @@
   {
     "id": "11646",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11646.gif",
+    "image": "/images/yuanBeiTu11646.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31276,7 +31276,7 @@
   {
     "id": "11647",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11647.gif",
+    "image": "/images/yuanBeiTu11647.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31295,7 +31295,7 @@
   {
     "id": "11648",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11648.gif",
+    "image": "/images/yuanBeiTu11648.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31314,7 +31314,7 @@
   {
     "id": "11649",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11649.gif",
+    "image": "/images/yuanBeiTu11649.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31333,7 +31333,7 @@
   {
     "id": "11650",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11650.gif",
+    "image": "/images/yuanBeiTu11650.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31352,7 +31352,7 @@
   {
     "id": "11651",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11651.gif",
+    "image": "/images/yuanBeiTu11651.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31371,7 +31371,7 @@
   {
     "id": "11652",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11652.gif",
+    "image": "/images/yuanBeiTu11652.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31390,7 +31390,7 @@
   {
     "id": "11653",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11653.gif",
+    "image": "/images/yuanBeiTu11653.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31409,7 +31409,7 @@
   {
     "id": "11654",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11654.gif",
+    "image": "/images/yuanBeiTu11654.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31428,7 +31428,7 @@
   {
     "id": "11655",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11655.gif",
+    "image": "/images/yuanBeiTu11655.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31447,7 +31447,7 @@
   {
     "id": "11656",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11656.gif",
+    "image": "/images/yuanBeiTu11656.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31466,7 +31466,7 @@
   {
     "id": "11657",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11657.gif",
+    "image": "/images/yuanBeiTu11657.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31485,7 +31485,7 @@
   {
     "id": "11658",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11658.gif",
+    "image": "/images/yuanBeiTu11658.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31504,7 +31504,7 @@
   {
     "id": "11659",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11659.gif",
+    "image": "/images/yuanBeiTu11659.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31523,7 +31523,7 @@
   {
     "id": "11660",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11660.gif",
+    "image": "/images/yuanBeiTu11660.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31542,7 +31542,7 @@
   {
     "id": "11661",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11661.gif",
+    "image": "/images/yuanBeiTu11661.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31561,7 +31561,7 @@
   {
     "id": "11662",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11662.gif",
+    "image": "/images/yuanBeiTu11662.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31580,7 +31580,7 @@
   {
     "id": "11663",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11663.gif",
+    "image": "/images/yuanBeiTu11663.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31599,7 +31599,7 @@
   {
     "id": "11664",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11664.gif",
+    "image": "/images/yuanBeiTu11664.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31618,7 +31618,7 @@
   {
     "id": "11665",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11665.gif",
+    "image": "/images/yuanBeiTu11665.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31637,7 +31637,7 @@
   {
     "id": "11666",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11666.gif",
+    "image": "/images/yuanBeiTu11666.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31656,7 +31656,7 @@
   {
     "id": "11667",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11667.gif",
+    "image": "/images/yuanBeiTu11667.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31675,7 +31675,7 @@
   {
     "id": "11668",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11668.gif",
+    "image": "/images/yuanBeiTu11668.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31694,7 +31694,7 @@
   {
     "id": "11669",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11669.gif",
+    "image": "/images/yuanBeiTu11669.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31713,7 +31713,7 @@
   {
     "id": "11670",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11670.gif",
+    "image": "/images/yuanBeiTu11670.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31732,7 +31732,7 @@
   {
     "id": "11671",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11671.gif",
+    "image": "/images/yuanBeiTu11671.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31751,7 +31751,7 @@
   {
     "id": "11672",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11672.gif",
+    "image": "/images/yuanBeiTu11672.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31770,7 +31770,7 @@
   {
     "id": "11673",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11673.gif",
+    "image": "/images/yuanBeiTu11673.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31789,7 +31789,7 @@
   {
     "id": "11674",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11674.gif",
+    "image": "/images/yuanBeiTu11674.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31808,7 +31808,7 @@
   {
     "id": "11675",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11675.gif",
+    "image": "/images/yuanBeiTu11675.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31827,7 +31827,7 @@
   {
     "id": "11676",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11676.gif",
+    "image": "/images/yuanBeiTu11676.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31846,7 +31846,7 @@
   {
     "id": "11677",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11677.gif",
+    "image": "/images/yuanBeiTu11677.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31865,7 +31865,7 @@
   {
     "id": "11678",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11678.gif",
+    "image": "/images/yuanBeiTu11678.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31884,7 +31884,7 @@
   {
     "id": "11679",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11679.gif",
+    "image": "/images/yuanBeiTu11679.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31903,7 +31903,7 @@
   {
     "id": "11680",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11680.gif",
+    "image": "/images/yuanBeiTu11680.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31922,7 +31922,7 @@
   {
     "id": "11681",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11681.gif",
+    "image": "/images/yuanBeiTu11681.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31941,7 +31941,7 @@
   {
     "id": "11682",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11682.gif",
+    "image": "/images/yuanBeiTu11682.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31960,7 +31960,7 @@
   {
     "id": "11683",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11683.gif",
+    "image": "/images/yuanBeiTu11683.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31979,7 +31979,7 @@
   {
     "id": "11684",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11684.gif",
+    "image": "/images/yuanBeiTu11684.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -31998,7 +31998,7 @@
   {
     "id": "11685",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11685.gif",
+    "image": "/images/yuanBeiTu11685.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32017,7 +32017,7 @@
   {
     "id": "11686",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11686.gif",
+    "image": "/images/yuanBeiTu11686.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32036,7 +32036,7 @@
   {
     "id": "11687",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11687.gif",
+    "image": "/images/yuanBeiTu11687.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32055,7 +32055,7 @@
   {
     "id": "11688",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11688.gif",
+    "image": "/images/yuanBeiTu11688.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32074,7 +32074,7 @@
   {
     "id": "11689",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11689.gif",
+    "image": "/images/yuanBeiTu11689.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32093,7 +32093,7 @@
   {
     "id": "11690",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11690.gif",
+    "image": "/images/yuanBeiTu11690.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32112,7 +32112,7 @@
   {
     "id": "11691",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11691.gif",
+    "image": "/images/yuanBeiTu11691.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32131,7 +32131,7 @@
   {
     "id": "11692",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11692.gif",
+    "image": "/images/yuanBeiTu11692.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32150,7 +32150,7 @@
   {
     "id": "11693",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11693.gif",
+    "image": "/images/yuanBeiTu11693.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32169,7 +32169,7 @@
   {
     "id": "11694",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11694.gif",
+    "image": "/images/yuanBeiTu11694.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32188,7 +32188,7 @@
   {
     "id": "11695",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11695.gif",
+    "image": "/images/yuanBeiTu11695.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32207,7 +32207,7 @@
   {
     "id": "11696",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11696.gif",
+    "image": "/images/yuanBeiTu11696.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32226,7 +32226,7 @@
   {
     "id": "11697",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11697.gif",
+    "image": "/images/yuanBeiTu11697.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32245,7 +32245,7 @@
   {
     "id": "11698",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11698.gif",
+    "image": "/images/yuanBeiTu11698.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32264,7 +32264,7 @@
   {
     "id": "11699",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11699.gif",
+    "image": "/images/yuanBeiTu11699.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32283,7 +32283,7 @@
   {
     "id": "11700",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11700.gif",
+    "image": "/images/yuanBeiTu11700.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32302,7 +32302,7 @@
   {
     "id": "11701",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11701.gif",
+    "image": "/images/yuanBeiTu11701.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32321,7 +32321,7 @@
   {
     "id": "11702",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11702.gif",
+    "image": "/images/yuanBeiTu11702.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -32340,7 +32340,7 @@
   {
     "id": "11703",
     "question": "这个标志是何含义？",
-    "image": "/uploadFile/yuanBeiTu11703.gif",
+    "image": "/images/yuanBeiTu11703.gif",
     "type": "1",
     "subject": "1",
     "chapterId": "7",
@@ -35057,7 +35057,7 @@
   {
     "id": "41532",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41532.gif",
+    "image": "/images/yuanBeiTu41532.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35076,7 +35076,7 @@
   {
     "id": "41533",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41533.gif",
+    "image": "/images/yuanBeiTu41533.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35095,7 +35095,7 @@
   {
     "id": "41534",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41534.gif",
+    "image": "/images/yuanBeiTu41534.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35114,7 +35114,7 @@
   {
     "id": "41535",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41535.gif",
+    "image": "/images/yuanBeiTu41535.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35133,7 +35133,7 @@
   {
     "id": "41536",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41536.gif",
+    "image": "/images/yuanBeiTu41536.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35152,7 +35152,7 @@
   {
     "id": "41537",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41537.gif",
+    "image": "/images/yuanBeiTu41537.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35171,7 +35171,7 @@
   {
     "id": "41538",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41538.gif",
+    "image": "/images/yuanBeiTu41538.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35190,7 +35190,7 @@
   {
     "id": "41539",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41539.gif",
+    "image": "/images/yuanBeiTu41539.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35209,7 +35209,7 @@
   {
     "id": "41540",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41540.gif",
+    "image": "/images/yuanBeiTu41540.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35228,7 +35228,7 @@
   {
     "id": "41541",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41541.gif",
+    "image": "/images/yuanBeiTu41541.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35247,7 +35247,7 @@
   {
     "id": "41542",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41542.gif",
+    "image": "/images/yuanBeiTu41542.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35266,7 +35266,7 @@
   {
     "id": "41543",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41543.gif",
+    "image": "/images/yuanBeiTu41543.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35285,7 +35285,7 @@
   {
     "id": "41544",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41544.gif",
+    "image": "/images/yuanBeiTu41544.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35304,7 +35304,7 @@
   {
     "id": "41545",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41545.gif",
+    "image": "/images/yuanBeiTu41545.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35323,7 +35323,7 @@
   {
     "id": "41546",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41546.gif",
+    "image": "/images/yuanBeiTu41546.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35342,7 +35342,7 @@
   {
     "id": "41547",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41547.gif",
+    "image": "/images/yuanBeiTu41547.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35361,7 +35361,7 @@
   {
     "id": "41548",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41548.gif",
+    "image": "/images/yuanBeiTu41548.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35380,7 +35380,7 @@
   {
     "id": "41549",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41549.gif",
+    "image": "/images/yuanBeiTu41549.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35399,7 +35399,7 @@
   {
     "id": "41550",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41550.gif",
+    "image": "/images/yuanBeiTu41550.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
@@ -35418,7 +35418,7 @@
   {
     "id": "41551",
     "question": "行驶到这个路口可以压斑马线掉头。",
-    "image": "/uploadFile/yuanBeiTu41551.gif",
+    "image": "/images/yuanBeiTu41551.gif",
     "type": "2",
     "subject": "1",
     "chapterId": null,
